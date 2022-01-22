@@ -1,0 +1,1287 @@
+,Nome,Sobrenome,Data de Nascimento,Loja,Produto,Data,Quantidade Vendida,Preco,Faturamento,Mes_Vendas,Mes_Vendas_Num,Devolucoes
+0,Elizeu,Barros,16/12/1993,Salvador,Casaco,2018-01-02,105,150,15750,Fevereiro,1,5
+93,Juliane,Felipi,09/04/1992,Salvador,Sapato,2018-01-27,43,75,3225,Janeiro,1,3
+92,Izabel,Milagre,24/07/1988,Rio de Janeiro,Pulseira,2018-01-27,139,25,3475,Janeiro,1,6
+60,Maryanna,Correa,08/10/1989,Curitiba,Casaco,2018-01-17,86,55,4730,Janeiro,1,6
+90,Maryanna,Correa,01/05/1993,Brasilia,Vestido,2018-01-26,7,150,1050,Janeiro,1,7
+89,Izabel,Milagre,15/09/1990,Curitiba,Short,2018-01-26,58,230,13340,Janeiro,1,4
+88,Emanuella,Fialho,15/09/1988,Porto Alegre,Sapato,2018-01-25,62,85,5270,Janeiro,1,8
+86,Emanuella,Fialho,23/04/1993,Sao Paulo,Casaco,2018-01-25,119,300,35700,Janeiro,1,5
+87,Paloma,Farias,04/12/1993,Curitiba,Camiseta,2018-01-25,73,230,16790,Janeiro,1,7
+83,Jucelia,Bailly,21/10/1988,Brasilia,Sandalia,2018-01-24,36,200,7200,Janeiro,1,6
+82,Elizeu,Barros,22/01/1985,Curitiba,Vestido,2018-01-24,81,110,8910,Janeiro,1,5
+81,Elizeu,Barros,05/12/1989,Salvador,Sapato,2018-01-24,71,190,13490,Janeiro,1,7
+85,Izabel,Milagre,06/05/1986,Porto Alegre,Sapato,2018-01-24,74,25,1850,Janeiro,1,5
+84,Maryanna,Correa,20/05/1985,Porto Alegre,Sandalia,2018-01-24,53,85,4505,Janeiro,1,1
+80,Iago,Bensdorp,06/04/1987,Brasilia,Camiseta,2018-01-23,2,300,600,Janeiro,1,5
+75,NatÃ¡lia,Huon,13/04/1990,Porto Alegre,Saia,2018-01-23,144,300,43200,Janeiro,1,2
+91,Emanuella,Fialho,07/03/1993,Sao Paulo,Vestido,2018-01-27,112,75,8400,Janeiro,1,5
+97,Emanuella,Fialho,13/02/1986,Salvador,Saia,2018-01-28,11,25,275,Janeiro,1,3
+96,Eduarda,Figueiredo,08/03/1991,Sao Paulo,Vestido,2018-01-28,44,30,1320,Janeiro,1,3
+95,Iago,Bensdorp,19/08/1985,Salvador,Vestido,2018-01-28,25,300,7500,Janeiro,1,4
+110,Tayna,Coimbra,21/11/1991,Sao Paulo,Vestido,2018-01-31,99,300,29700,Janeiro,1,1
+111,Andrew,Carvalhal,30/01/1990,Porto Alegre,Vestido,2018-01-31,35,250,8750,Janeiro,1,6
+114,Jucelia,Bailly,27/03/1986,Porto Alegre,Sapato,2018-01-31,113,30,3390,Janeiro,1,2
+107,Izabel,Milagre,26/10/1990,Brasilia,Saia,2018-01-30,27,150,4050,Janeiro,1,1
+109,Emanuella,Fialho,17/03/1990,Salvador,Casaco,2018-01-30,55,25,1375,Janeiro,1,2
+103,Elizeu,Barros,21/02/1993,Brasilia,Saia,2018-01-30,98,200,19600,Janeiro,1,8
+102,Maryanna,Correa,09/11/1992,Fortaleza,Vestido,2018-01-30,131,150,19650,Janeiro,1,5
+77,Maryanna,Correa,10/06/1988,Rio de Janeiro,Vestido,2018-01-23,90,55,4950,Janeiro,1,4
+104,Elizeu,Barros,04/05/1988,Curitiba,Vestido,2018-01-30,138,110,15180,Janeiro,1,3
+106,Joyce,Ribas,06/08/1985,Rio de Janeiro,Vestido,2018-01-30,51,110,5610,Janeiro,1,8
+108,Elizeu,Barros,25/04/1986,Salvador,Pulseira,2018-01-30,28,85,2380,Janeiro,1,4
+98,Paloma,Farias,28/11/1988,Curitiba,Jaqueta,2018-01-29,103,300,30900,Janeiro,1,7
+99,Joyce,Ribas,06/05/1989,Porto Alegre,Vestido,2018-01-29,69,150,10350,Janeiro,1,1
+100,Elizeu,Barros,19/10/1993,Curitiba,Saia,2018-01-29,59,30,1770,Janeiro,1,7
+101,Joyce,Ribas,31/05/1990,Fortaleza,Camiseta,2018-01-29,7,75,525,Janeiro,1,4
+94,Izabel,Milagre,15/01/1989,Salvador,Sapato,2018-01-28,113,150,16950,Janeiro,1,6
+105,Jucelia,Bailly,18/01/1991,Brasilia,Casaco,2018-01-30,92,85,7820,Janeiro,1,8
+78,Eduarda,Figueiredo,20/11/1992,Rio de Janeiro,Short,2018-01-23,22,75,1650,Janeiro,1,1
+79,Eduarda,Figueiredo,09/10/1987,Porto Alegre,Pulseira,2018-01-23,64,25,1600,Janeiro,1,1
+76,Elizeu,Barros,06/02/1987,Curitiba,Vestido,2018-01-23,130,110,14300,Janeiro,1,2
+48,Eduarda,Figueiredo,30/04/1989,Fortaleza,Saia,2018-01-15,64,85,5440,Janeiro,1,4
+49,Elizeu,Barros,26/03/1986,Fortaleza,Sapato,2018-01-15,11,200,2200,Janeiro,1,2
+50,Andrew,Carvalhal,09/01/1993,Sao Paulo,Bermuda,2018-01-15,73,25,1825,Janeiro,1,8
+64,Patricia,Camara,18/04/1985,Brasilia,Casaco,2018-01-19,95,150,14250,Janeiro,1,8
+63,Jucelia,Bailly,15/03/1985,Rio de Janeiro,Tenis,2018-01-19,123,150,18450,Janeiro,1,6
+65,Emanuella,Fialho,24/06/1991,Curitiba,Vestido,2018-01-19,10,230,2300,Janeiro,1,3
+62,Maryanna,Correa,31/10/1990,Rio de Janeiro,Casaco,2018-01-18,80,200,16000,Janeiro,1,4
+47,NatÃ¡lia,Huon,09/11/1985,Rio de Janeiro,Jaqueta,2018-01-15,98,250,24500,Janeiro,1,2
+51,Izabel,Milagre,27/11/1985,Sao Paulo,Camiseta,2018-01-16,128,250,32000,Janeiro,1,5
+53,Andrew,Carvalhal,29/06/1987,Rio de Janeiro,Casaco,2018-01-16,142,190,26980,Janeiro,1,1
+54,Eduarda,Figueiredo,19/06/1988,Porto Alegre,Vestido,2018-01-16,85,190,16150,Janeiro,1,7
+55,Joyce,Ribas,13/03/1986,Sao Paulo,Sandalia,2018-01-16,85,30,2550,Janeiro,1,4
+56,Eduarda,Figueiredo,24/08/1985,Brasilia,Sapato,2018-01-16,79,30,2370,Janeiro,1,6
+57,Tayna,Coimbra,14/01/1992,Fortaleza,Sapato,2018-01-16,15,150,2250,Janeiro,1,8
+59,Paloma,Farias,12/02/1991,Porto Alegre,Camiseta,2018-01-17,109,150,16350,Janeiro,1,3
+58,Eduarda,Figueiredo,10/03/1986,Porto Alegre,Sapato,2018-01-17,115,250,28750,Janeiro,1,3
+52,Andrew,Carvalhal,10/09/1987,Curitiba,Casaco,2018-01-16,148,200,29600,Janeiro,1,8
+112,Jucelia,Bailly,09/08/1992,Curitiba,Sandalia,2018-01-31,124,55,6820,Janeiro,1,3
+46,Breno,Amaral,19/12/1985,Rio de Janeiro,Sapato,2018-01-15,139,190,26410,Janeiro,1,8
+71,Andrew,Carvalhal,12/05/1988,Fortaleza,Jaqueta,2018-01-21,36,25,900,Janeiro,1,7
+73,Iago,Bensdorp,09/02/1985,Curitiba,Vestido,2018-01-22,121,55,6655,Janeiro,1,2
+74,Maryanna,Correa,27/02/1990,Brasilia,Camiseta,2018-01-22,17,30,510,Janeiro,1,6
+72,Emanuella,Fialho,11/09/1988,Rio de Janeiro,Casaco,2018-01-22,112,150,16800,Janeiro,1,2
+37,Elizeu,Barros,07/08/1989,Sao Paulo,Sapato,2018-01-13,150,85,12750,Janeiro,1,7
+38,Elizeu,Barros,08/12/1988,Sao Paulo,Tenis,2018-01-13,71,150,10650,Janeiro,1,5
+39,Izabel,Milagre,11/09/1992,Salvador,Short,2018-01-13,55,190,10450,Janeiro,1,4
+40,Andrew,Carvalhal,12/09/1993,Curitiba,Bermuda,2018-01-13,21,250,5250,Janeiro,1,8
+66,Izabel,Milagre,11/05/1991,Fortaleza,Casaco,2018-01-20,68,30,2040,Janeiro,1,8
+41,Elizeu,Barros,28/11/1992,Fortaleza,Chinelo,2018-01-13,49,55,2695,Janeiro,1,1
+68,Andrew,Carvalhal,08/10/1991,Curitiba,Casaco,2018-01-21,20,250,5000,Janeiro,1,5
+67,Eduarda,Figueiredo,30/04/1989,Rio de Janeiro,Casaco,2018-01-21,137,75,10275,Janeiro,1,2
+70,Jucelia,Bailly,28/12/1992,Brasilia,Jaqueta,2018-01-21,68,25,1700,Janeiro,1,3
+42,Elizeu,Barros,14/01/1991,Rio de Janeiro,Saia,2018-01-14,89,250,22250,Janeiro,1,6
+43,Joyce,Ribas,06/11/1988,Curitiba,Vestido,2018-01-14,83,150,12450,Janeiro,1,6
+45,Paloma,Farias,20/09/1989,Brasilia,Vestido,2018-01-14,14,190,2660,Janeiro,1,7
+44,Patricia,Camara,21/10/1986,Curitiba,Sapato,2018-01-14,35,110,3850,Janeiro,1,4
+69,Elizeu,Barros,18/12/1988,Porto Alegre,Saia,2018-01-21,10,190,1900,Janeiro,1,2
+113,Maryanna,Correa,29/05/1987,Fortaleza,Vestido,2018-01-31,26,190,4940,Janeiro,1,5
+61,Izabel,Milagre,07/03/1986,Curitiba,Sapato,2018-01-17,12,300,3600,Janeiro,1,6
+11,Patricia,Camara,15/03/1989,Rio de Janeiro,Vestido,2018-01-04,5,200,1000,Abril,1,1
+22,Breno,Amaral,14/06/1985,Salvador,Pulseira,2018-01-07,16,250,4000,Julho,1,2
+16,Iago,Bensdorp,03/01/1993,Fortaleza,Camiseta,2018-01-06,120,300,36000,Junho,1,2
+13,Joyce,Ribas,16/06/1986,Curitiba,Vestido,2018-01-05,73,110,8030,Maio,1,7
+12,Paloma,Farias,01/12/1985,Rio de Janeiro,Sapato,2018-01-05,121,110,13310,Maio,1,7
+24,Iago,Bensdorp,09/01/1989,Brasilia,Bermuda,2018-01-07,60,25,1500,Julho,1,3
+36,Paloma,Farias,13/08/1992,Fortaleza,Vestido,2018-01-11,42,75,3150,Novembro,1,3
+35,Emanuella,Fialho,24/01/1987,Curitiba,Vestido,2018-01-11,42,200,8400,Novembro,1,7
+34,Jucelia,Bailly,14/02/1992,Rio de Janeiro,Vestido,2018-01-10,7,190,1330,Outubro,1,1
+20,Paloma,Farias,10/08/1989,Salvador,Vestido,2018-01-07,121,55,6655,Julho,1,8
+21,Joyce,Ribas,09/03/1988,Brasilia,Camiseta,2018-01-07,78,75,5850,Julho,1,8
+3,Paloma,Farias,29/03/1989,Rio de Janeiro,Vestido,2018-01-02,55,55,3025,Fevereiro,1,1
+4,Iago,Bensdorp,11/12/1989,Brasilia,Vestido,2018-01-02,7,75,525,Fevereiro,1,1
+5,Paloma,Farias,22/12/1993,Brasilia,Sapato,2018-01-03,88,200,17600,Marco,1,6
+6,Patricia,Camara,10/09/1991,Sao Paulo,Sandalia,2018-01-03,116,55,6380,Marco,1,2
+7,Maryanna,Correa,06/05/1988,Porto Alegre,Saia,2018-01-03,109,55,5995,Marco,1,4
+8,Joyce,Ribas,02/08/1985,Fortaleza,Saia,2018-01-03,12,250,3000,Marco,1,7
+9,Andrew,Carvalhal,15/12/1986,Rio de Janeiro,Vestido,2018-01-03,40,55,2200,Marco,1,2
+18,Izabel,Milagre,07/01/1987,Salvador,Casaco,2018-01-06,120,25,3000,Junho,1,1
+23,Breno,Amaral,04/04/1993,Salvador,Vestido,2018-01-07,64,25,1600,Julho,1,8
+17,Maryanna,Correa,18/01/1991,Brasilia,Vestido,2018-01-06,145,75,10875,Junho,1,6
+27,Izabel,Milagre,29/09/1993,Salvador,Vestido,2018-01-08,120,150,18000,Agosto,1,1
+31,Iago,Bensdorp,06/04/1990,Rio de Janeiro,Vestido,2018-01-09,5,30,150,Setembro,1,4
+19,Emanuella,Fialho,17/12/1987,Brasilia,Bermuda,2018-01-06,54,25,1350,Junho,1,4
+14,Jucelia,Bailly,26/04/1987,Fortaleza,Camiseta,2018-01-05,99,30,2970,Maio,1,3
+15,Iago,Bensdorp,15/08/1989,Fortaleza,Casaco,2018-01-05,53,25,1325,Maio,1,5
+30,Andrew,Carvalhal,20/12/1993,Salvador,Camiseta,2018-01-09,58,30,1740,Setembro,1,1
+32,Joyce,Ribas,10/03/1989,Brasilia,Jaqueta,2018-01-10,115,190,21850,Outubro,1,4
+33,Izabel,Milagre,18/06/1988,Brasilia,Vestido,2018-01-10,79,85,6715,Outubro,1,2
+29,Izabel,Milagre,21/12/1990,Brasilia,Casaco,2018-01-09,62,30,1860,Setembro,1,5
+28,Patricia,Camara,10/09/1987,Fortaleza,Sapato,2018-01-08,125,30,3750,Agosto,1,4
+10,Paloma,Farias,01/05/1988,Brasilia,Vestido,2018-01-04,73,110,8030,Abril,1,3
+1,Andrew,Carvalhal,18/07/1992,Brasilia,Camiseta,2018-01-02,57,250,14250,Fevereiro,1,6
+2,Andrew,Carvalhal,12/02/1985,Sao Paulo,Sapato,2018-01-02,44,150,6600,Fevereiro,1,6
+26,Paloma,Farias,09/10/1987,Curitiba,Sandalia,2018-01-08,107,190,20330,Agosto,1,2
+25,Jucelia,Bailly,19/08/1992,Curitiba,Vestido,2018-01-08,127,230,29210,Agosto,1,7
+183,Tayna,Coimbra,05/10/1987,Fortaleza,Sapato,2018-02-27,13,190,2470,Fevereiro,2,7
+175,Eduarda,Figueiredo,30/04/1990,Rio de Janeiro,Short,2018-02-25,144,190,27360,Fevereiro,2,7
+178,NatÃ¡lia,Huon,10/08/1985,Curitiba,Vestido,2018-02-27,90,300,27000,Fevereiro,2,1
+182,Breno,Amaral,03/08/1986,Fortaleza,Sapato,2018-02-27,58,110,6380,Fevereiro,2,7
+176,Andrew,Carvalhal,29/04/1992,Brasilia,Vestido,2018-02-25,78,75,5850,Fevereiro,2,8
+181,Jucelia,Bailly,06/12/1989,Curitiba,Pulseira,2018-02-27,58,150,8700,Fevereiro,2,6
+180,Paloma,Farias,30/09/1987,Salvador,Saia,2018-02-27,128,110,14080,Fevereiro,2,5
+173,Tayna,Coimbra,29/01/1989,Salvador,Vestido,2018-02-25,136,250,34000,Fevereiro,2,4
+122,Elizeu,Barros,05/11/1991,Salvador,Vestido,2018-02-14,57,85,4845,Fevereiro,2,1
+128,Izabel,Milagre,28/10/1992,Salvador,Sapato,2018-02-15,98,55,5390,Fevereiro,2,3
+129,Jucelia,Bailly,29/04/1989,Porto Alegre,Sapato,2018-02-15,150,25,3750,Fevereiro,2,2
+154,Izabel,Milagre,22/02/1990,Sao Paulo,Sapato,2018-02-21,15,250,3750,Fevereiro,2,8
+149,Juliane,Felipi,29/12/1991,Brasilia,Vestido,2018-02-21,102,250,25500,Fevereiro,2,8
+177,Paloma,Farias,14/06/1987,Salvador,Vestido,2018-02-26,16,200,3200,Fevereiro,2,6
+141,Elizeu,Barros,27/07/1985,Salvador,Saia,2018-02-19,123,200,24600,Fevereiro,2,5
+143,Eduarda,Figueiredo,31/05/1993,Brasilia,Casaco,2018-02-19,69,85,5865,Fevereiro,2,1
+150,Eduarda,Figueiredo,30/01/1989,Curitiba,Sapato,2018-02-21,119,150,17850,Fevereiro,2,2
+151,Breno,Amaral,12/02/1993,Rio de Janeiro,Sapato,2018-02-21,150,85,12750,Fevereiro,2,1
+155,Breno,Amaral,31/01/1989,Rio de Janeiro,Jaqueta,2018-02-21,29,110,3190,Fevereiro,2,4
+156,Tayna,Coimbra,26/12/1988,Brasilia,Sandalia,2018-02-21,88,30,2640,Fevereiro,2,6
+157,Elizeu,Barros,01/01/1987,Salvador,Sapato,2018-02-21,24,75,1800,Fevereiro,2,2
+158,Elizeu,Barros,14/06/1993,Porto Alegre,Vestido,2018-02-21,22,75,1650,Fevereiro,2,2
+159,Elizeu,Barros,01/01/1985,Rio de Janeiro,Vestido,2018-02-21,2,300,600,Fevereiro,2,8
+124,Breno,Amaral,03/11/1988,Fortaleza,Jaqueta,2018-02-15,139,230,31970,Fevereiro,2,7
+125,Juliane,Felipi,16/11/1985,Porto Alegre,Vestido,2018-02-15,120,250,30000,Fevereiro,2,1
+126,Maryanna,Correa,27/01/1992,Porto Alegre,Sandalia,2018-02-15,98,190,18620,Fevereiro,2,2
+142,Maryanna,Correa,19/08/1993,Salvador,Vestido,2018-02-19,56,200,11200,Fevereiro,2,2
+127,Jucelia,Bailly,06/05/1985,Salvador,Jaqueta,2018-02-15,43,300,12900,Fevereiro,2,6
+123,Paloma,Farias,15/07/1993,Porto Alegre,Saia,2018-02-15,143,230,32890,Fevereiro,2,8
+148,Juliane,Felipi,08/04/1989,Rio de Janeiro,Short,2018-02-19,4,75,300,Fevereiro,2,6
+174,Breno,Amaral,28/06/1990,Salvador,Casaco,2018-02-25,140,230,32200,Fevereiro,2,1
+146,Elizeu,Barros,23/09/1991,Rio de Janeiro,Pulseira,2018-02-19,6,250,1500,Fevereiro,2,1
+161,Maryanna,Correa,20/05/1993,Rio de Janeiro,Camiseta,2018-02-22,129,75,9675,Fevereiro,2,1
+120,Joyce,Ribas,06/09/1985,Curitiba,Camiseta,2018-02-14,65,200,13000,Fevereiro,2,8
+119,Breno,Amaral,09/03/1991,Curitiba,Sapato,2018-02-14,101,300,30300,Fevereiro,2,3
+167,Eduarda,Figueiredo,23/07/1993,Porto Alegre,Vestido,2018-02-23,93,30,2790,Fevereiro,2,1
+164,Jucelia,Bailly,29/09/1986,Fortaleza,Jaqueta,2018-02-23,113,300,33900,Fevereiro,2,4
+163,NatÃ¡lia,Huon,12/06/1985,Porto Alegre,Pulseira,2018-02-23,148,230,34040,Fevereiro,2,4
+133,Maryanna,Correa,09/11/1987,Sao Paulo,Bermuda,2018-02-17,34,300,10200,Fevereiro,2,3
+131,Paloma,Farias,10/05/1993,Brasilia,Bermuda,2018-02-17,108,200,21600,Fevereiro,2,3
+134,Iago,Bensdorp,06/07/1985,Rio de Janeiro,Tenis,2018-02-17,110,25,2750,Fevereiro,2,2
+135,Tayna,Coimbra,19/08/1993,Salvador,Sapato,2018-02-17,6,110,660,Fevereiro,2,1
+132,Paloma,Farias,01/05/1988,Curitiba,Casaco,2018-02-17,72,150,10800,Fevereiro,2,2
+166,Eduarda,Figueiredo,26/07/1989,Rio de Janeiro,Sapato,2018-02-23,74,75,5550,Fevereiro,2,8
+165,Izabel,Milagre,09/02/1992,Porto Alegre,Casaco,2018-02-23,42,230,9660,Fevereiro,2,1
+184,Izabel,Milagre,02/06/1993,Brasilia,Sandalia,2018-02-28,31,200,6200,Fevereiro,2,6
+186,Breno,Amaral,21/04/1987,Rio de Janeiro,Saia,2018-02-28,54,25,1350,Fevereiro,2,3
+118,Iago,Bensdorp,09/02/1985,Sao Paulo,Casaco,2018-02-09,80,85,6800,Setembro,2,7
+117,Eduarda,Figueiredo,26/11/1986,Salvador,Sandalia,2018-02-02,93,110,10230,Fevereiro,2,4
+116,Breno,Amaral,27/01/1988,Rio de Janeiro,Sapato,2018-02-01,17,30,510,Janeiro,2,6
+115,Patricia,Camara,01/03/1993,Salvador,Vestido,2018-02-01,147,110,16170,Janeiro,2,5
+160,NatÃ¡lia,Huon,09/07/1993,Curitiba,Casaco,2018-02-22,77,190,14630,Fevereiro,2,1
+185,Paloma,Farias,29/05/1989,Salvador,Sapato,2018-02-28,19,300,5700,Fevereiro,2,5
+147,NatÃ¡lia,Huon,10/08/1986,Curitiba,Vestido,2018-02-19,15,85,1275,Fevereiro,2,7
+121,Paloma,Farias,11/10/1992,Sao Paulo,Sapato,2018-02-14,131,75,9825,Fevereiro,2,3
+162,Paloma,Farias,07/11/1992,Brasilia,Saia,2018-02-22,27,230,6210,Fevereiro,2,7
+152,Iago,Bensdorp,29/03/1993,Sao Paulo,Pulseira,2018-02-21,28,250,7000,Fevereiro,2,5
+171,Andrew,Carvalhal,02/02/1988,Fortaleza,Casaco,2018-02-24,14,300,4200,Fevereiro,2,1
+170,Joyce,Ribas,04/10/1990,Porto Alegre,Sapato,2018-02-24,24,200,4800,Fevereiro,2,8
+179,Joyce,Ribas,01/02/1992,Curitiba,Camiseta,2018-02-27,98,230,22540,Fevereiro,2,4
+153,Eduarda,Figueiredo,11/09/1990,Brasilia,Sandalia,2018-02-21,31,200,6200,Fevereiro,2,3
+169,Maryanna,Correa,05/08/1985,Rio de Janeiro,Camiseta,2018-02-24,21,230,4830,Fevereiro,2,2
+137,Elizeu,Barros,26/12/1989,Fortaleza,Short,2018-02-18,148,150,22200,Fevereiro,2,5
+172,Jucelia,Bailly,13/01/1986,Salvador,Sapato,2018-02-24,37,110,4070,Fevereiro,2,2
+140,NatÃ¡lia,Huon,12/11/1993,Curitiba,Vestido,2018-02-18,4,85,340,Fevereiro,2,3
+138,Maryanna,Correa,10/12/1990,Curitiba,Chinelo,2018-02-18,69,75,5175,Fevereiro,2,3
+144,Izabel,Milagre,24/04/1990,Salvador,Sandalia,2018-02-19,118,25,2950,Fevereiro,2,3
+136,Breno,Amaral,22/06/1990,Brasilia,Sandalia,2018-02-18,150,230,34500,Fevereiro,2,1
+145,Joyce,Ribas,01/07/1988,Porto Alegre,Pulseira,2018-02-19,27,75,2025,Fevereiro,2,7
+130,Izabel,Milagre,03/10/1986,Porto Alegre,Sandalia,2018-02-16,76,250,19000,Fevereiro,2,2
+139,Paloma,Farias,03/08/1992,Curitiba,Sapato,2018-02-18,67,75,5025,Fevereiro,2,4
+168,Maryanna,Correa,06/05/1985,Salvador,Casaco,2018-02-24,109,150,16350,Fevereiro,2,8
+198,Breno,Amaral,23/01/1988,Curitiba,Pulseira,2018-03-03,80,85,6800,Marco,3,5
+305,Paloma,Farias,26/05/1991,Porto Alegre,Casaco,2018-03-27,3,150,450,Marco,3,6
+245,Patricia,Camara,15/09/1989,Fortaleza,Casaco,2018-03-14,13,300,3900,Marco,3,3
+304,Paloma,Farias,06/01/1993,Sao Paulo,Vestido,2018-03-27,45,85,3825,Marco,3,2
+300,Andrew,Carvalhal,27/09/1989,Porto Alegre,Sapato,2018-03-27,127,150,19050,Marco,3,1
+200,Eduarda,Figueiredo,12/11/1993,Brasilia,Chinelo,2018-03-03,8,200,1600,Marco,3,3
+199,Jucelia,Bailly,26/04/1991,Brasilia,Vestido,2018-03-03,115,55,6325,Marco,3,2
+244,Emanuella,Fialho,25/10/1993,Salvador,Tenis,2018-03-14,146,30,4380,Marco,3,6
+243,Patricia,Camara,30/03/1988,Fortaleza,Casaco,2018-03-14,148,30,4440,Marco,3,4
+302,Iago,Bensdorp,27/08/1987,Brasilia,Camiseta,2018-03-27,68,250,17000,Marco,3,3
+303,Iago,Bensdorp,24/12/1988,Porto Alegre,Short,2018-03-27,120,85,10200,Marco,3,8
+301,Andrew,Carvalhal,07/06/1991,Rio de Janeiro,Short,2018-03-27,117,150,17550,Marco,3,7
+202,Patricia,Camara,22/08/1992,Brasilia,Sapato,2018-03-04,136,110,14960,Abril,3,5
+225,Elizeu,Barros,07/09/1989,Salvador,Sapato,2018-03-09,118,190,22420,Setembro,3,6
+299,Eduarda,Figueiredo,22/10/1989,Rio de Janeiro,Vestido,2018-03-26,82,30,2460,Marco,3,1
+239,Patricia,Camara,28/11/1985,Porto Alegre,Sandalia,2018-03-13,28,300,8400,Marco,3,5
+241,Andrew,Carvalhal,03/05/1990,Fortaleza,Saia,2018-03-13,53,75,3975,Marco,3,5
+224,Elizeu,Barros,13/10/1989,Sao Paulo,Casaco,2018-03-08,45,25,1125,Agosto,3,2
+287,Iago,Bensdorp,22/06/1992,Porto Alegre,Vestido,2018-03-24,52,300,15600,Marco,3,3
+288,Juliane,Felipi,04/07/1992,Brasilia,Sapato,2018-03-24,116,30,3480,Marco,3,5
+289,Andrew,Carvalhal,07/08/1992,Porto Alegre,Saia,2018-03-24,17,30,510,Marco,3,7
+193,Andrew,Carvalhal,02/02/1986,Curitiba,Sandalia,2018-03-02,76,85,6460,Fevereiro,3,4
+192,Iago,Bensdorp,16/03/1993,Sao Paulo,Casaco,2018-03-02,65,110,7150,Fevereiro,3,6
+195,Maryanna,Correa,12/09/1987,Porto Alegre,Vestido,2018-03-02,18,75,1350,Fevereiro,3,4
+190,Breno,Amaral,01/10/1992,Curitiba,Camiseta,2018-03-01,6,75,450,Janeiro,3,8
+188,Izabel,Milagre,20/07/1988,Porto Alegre,Vestido,2018-03-01,61,85,5185,Janeiro,3,6
+286,Andrew,Carvalhal,29/07/1990,Brasilia,Sapato,2018-03-23,8,75,600,Marco,3,5
+285,NatÃ¡lia,Huon,23/11/1985,Porto Alegre,Sapato,2018-03-23,11,55,605,Marco,3,7
+283,Breno,Amaral,16/04/1989,Rio de Janeiro,Vestido,2018-03-23,75,110,8250,Marco,3,7
+284,Eduarda,Figueiredo,20/03/1988,Rio de Janeiro,Camiseta,2018-03-23,42,75,3150,Marco,3,3
+187,Iago,Bensdorp,13/12/1991,Porto Alegre,Vestido,2018-03-01,74,300,22200,Janeiro,3,8
+189,Elizeu,Barros,07/02/1992,Fortaleza,Camiseta,2018-03-01,17,190,3230,Janeiro,3,8
+282,Elizeu,Barros,27/05/1988,Fortaleza,Casaco,2018-03-22,148,25,3700,Marco,3,2
+281,Paloma,Farias,15/11/1989,Rio de Janeiro,Vestido,2018-03-22,134,85,11390,Marco,3,7
+240,Maryanna,Correa,26/08/1985,Curitiba,Tenis,2018-03-13,100,55,5500,Marco,3,3
+298,Maryanna,Correa,21/03/1988,Fortaleza,Casaco,2018-03-26,73,85,6205,Marco,3,2
+237,Elizeu,Barros,07/02/1993,Porto Alegre,Vestido,2018-03-13,98,110,10780,Marco,3,3
+194,Joyce,Ribas,04/02/1989,Brasilia,Vestido,2018-03-02,28,190,5320,Fevereiro,3,8
+297,Elizeu,Barros,19/10/1986,Curitiba,Casaco,2018-03-26,91,250,22750,Marco,3,5
+197,Izabel,Milagre,22/06/1987,Salvador,Short,2018-03-03,57,200,11400,Marco,3,1
+201,Tayna,Coimbra,24/11/1985,Salvador,Tenis,2018-03-03,5,30,150,Marco,3,5
+274,Emanuella,Fialho,29/09/1988,Curitiba,Casaco,2018-03-21,133,85,11305,Marco,3,8
+273,Izabel,Milagre,21/04/1987,Salvador,Pulseira,2018-03-21,80,230,18400,Marco,3,4
+276,Iago,Bensdorp,28/01/1991,Sao Paulo,Short,2018-03-21,104,55,5720,Marco,3,3
+277,Patricia,Camara,22/07/1989,Porto Alegre,Camiseta,2018-03-21,37,75,2775,Marco,3,3
+278,Emanuella,Fialho,15/08/1987,Rio de Janeiro,Sapato,2018-03-21,2,30,60,Marco,3,5
+275,Breno,Amaral,13/07/1993,Sao Paulo,Casaco,2018-03-21,85,85,7225,Marco,3,4
+290,Andrew,Carvalhal,21/11/1990,Salvador,Sandalia,2018-03-25,149,200,29800,Marco,3,5
+293,Iago,Bensdorp,05/12/1990,Curitiba,Vestido,2018-03-25,38,150,5700,Marco,3,4
+291,Breno,Amaral,08/12/1990,Fortaleza,Vestido,2018-03-25,61,190,11590,Marco,3,3
+292,Izabel,Milagre,27/06/1993,Sao Paulo,Camiseta,2018-03-25,42,150,6300,Marco,3,3
+296,Paloma,Farias,12/07/1988,Sao Paulo,Vestido,2018-03-25,16,25,400,Marco,3,1
+295,Joyce,Ribas,02/03/1993,Sao Paulo,Bermuda,2018-03-25,47,75,3525,Marco,3,2
+294,Elizeu,Barros,26/12/1988,Brasilia,Sapato,2018-03-25,132,30,3960,Marco,3,3
+246,Emanuella,Fialho,29/04/1991,Salvador,Vestido,2018-03-14,47,55,2585,Marco,3,3
+191,Andrew,Carvalhal,30/07/1989,Brasilia,Sandalia,2018-03-02,112,75,8400,Fevereiro,3,3
+196,Izabel,Milagre,24/02/1987,Sao Paulo,Camiseta,2018-03-02,9,85,765,Fevereiro,3,4
+238,Patricia,Camara,09/03/1989,Sao Paulo,Camiseta,2018-03-13,43,200,8600,Marco,3,6
+242,Eduarda,Figueiredo,05/04/1987,Sao Paulo,Camiseta,2018-03-14,32,150,4800,Marco,3,4
+279,Elizeu,Barros,09/04/1986,Salvador,Casaco,2018-03-22,145,150,21750,Marco,3,4
+327,Patricia,Camara,26/02/1986,Salvador,Vestido,2018-03-30,47,85,3995,Marco,3,6
+325,Eduarda,Figueiredo,18/11/1985,Sao Paulo,Vestido,2018-03-30,42,230,9660,Marco,3,8
+326,Emanuella,Fialho,08/02/1989,Rio de Janeiro,Vestido,2018-03-30,42,230,9660,Marco,3,3
+260,Maryanna,Correa,13/08/1988,Porto Alegre,Sandalia,2018-03-17,49,150,7350,Marco,3,2
+218,Eduarda,Figueiredo,27/10/1989,Brasilia,Bermuda,2018-03-06,1,85,85,Junho,3,6
+217,Izabel,Milagre,30/12/1992,Curitiba,Vestido,2018-03-06,4,300,1200,Junho,3,7
+216,Iago,Bensdorp,24/10/1985,Curitiba,Chinelo,2018-03-06,9,200,1800,Junho,3,7
+215,Andrew,Carvalhal,02/05/1989,Fortaleza,Sapato,2018-03-06,17,190,3230,Junho,3,8
+214,Andrew,Carvalhal,23/04/1986,Porto Alegre,Bermuda,2018-03-06,74,85,6290,Junho,3,3
+209,Iago,Bensdorp,23/04/1993,Sao Paulo,Casaco,2018-03-05,96,250,24000,Maio,3,6
+210,Iago,Bensdorp,09/12/1990,Rio de Janeiro,Sapato,2018-03-05,118,200,23600,Maio,3,5
+211,Breno,Amaral,27/12/1986,Sao Paulo,Sapato,2018-03-05,40,230,9200,Maio,3,3
+267,Andrew,Carvalhal,09/10/1988,Brasilia,Camiseta,2018-03-19,56,110,6160,Marco,3,4
+266,Iago,Bensdorp,17/02/1985,Brasilia,Jaqueta,2018-03-19,88,75,6600,Marco,3,6
+255,Eduarda,Figueiredo,17/08/1986,Porto Alegre,Short,2018-03-16,9,110,990,Marco,3,2
+258,Joyce,Ribas,28/03/1993,Curitiba,Casaco,2018-03-17,125,150,18750,Marco,3,7
+256,Tayna,Coimbra,08/08/1993,Fortaleza,Saia,2018-03-17,126,230,28980,Marco,3,4
+259,Joyce,Ribas,28/02/1992,Curitiba,Pulseira,2018-03-17,93,85,7905,Marco,3,2
+203,Paloma,Farias,22/03/1988,Fortaleza,Vestido,2018-03-04,140,85,11900,Abril,3,3
+328,Paloma,Farias,05/05/1992,Rio de Janeiro,Vestido,2018-03-30,39,75,2925,Marco,3,8
+222,Maryanna,Correa,03/11/1990,Sao Paulo,Sandalia,2018-03-07,23,110,2530,Julho,3,1
+221,Patricia,Camara,07/03/1993,Salvador,Vestido,2018-03-07,14,230,3220,Julho,3,7
+253,Patricia,Camara,18/12/1993,Fortaleza,Saia,2018-03-16,51,200,10200,Marco,3,6
+261,Paloma,Farias,23/10/1986,Rio de Janeiro,Casaco,2018-03-18,107,300,32100,Marco,3,3
+264,Izabel,Milagre,02/02/1989,Curitiba,Vestido,2018-03-18,138,85,11730,Marco,3,4
+263,Emanuella,Fialho,23/02/1988,Sao Paulo,Sapato,2018-03-18,122,110,13420,Marco,3,3
+262,Elizeu,Barros,06/11/1993,Brasilia,Sapato,2018-03-18,121,250,30250,Marco,3,7
+250,Tayna,Coimbra,09/12/1986,Brasilia,Casaco,2018-03-15,16,75,1200,Marco,3,8
+247,Paloma,Farias,05/12/1993,Porto Alegre,Casaco,2018-03-15,70,230,16100,Marco,3,8
+249,Breno,Amaral,06/10/1985,Rio de Janeiro,Casaco,2018-03-15,28,55,1540,Marco,3,2
+257,Elizeu,Barros,29/12/1990,Sao Paulo,Vestido,2018-03-17,117,230,26910,Marco,3,8
+252,Patricia,Camara,24/11/1989,Porto Alegre,Sapato,2018-03-15,3,85,255,Marco,3,3
+251,NatÃ¡lia,Huon,01/02/1991,Porto Alegre,Sapato,2018-03-15,43,25,1075,Marco,3,3
+329,Paloma,Farias,23/09/1985,Rio de Janeiro,Vestido,2018-03-31,132,190,25080,Marco,3,2
+330,Patricia,Camara,15/05/1988,Rio de Janeiro,Pulseira,2018-03-31,76,200,15200,Marco,3,4
+331,Joyce,Ribas,31/01/1989,Rio de Janeiro,Saia,2018-03-31,89,150,13350,Marco,3,4
+332,Elizeu,Barros,15/09/1988,Rio de Janeiro,Bermuda,2018-03-31,18,150,2700,Marco,3,2
+223,Jucelia,Bailly,01/10/1989,Brasilia,Casaco,2018-03-08,61,75,4575,Agosto,3,5
+220,Elizeu,Barros,03/08/1993,Curitiba,Sapato,2018-03-07,52,85,4420,Julho,3,7
+219,Joyce,Ribas,24/02/1992,Fortaleza,Camiseta,2018-03-07,120,85,10200,Julho,3,6
+248,Breno,Amaral,14/05/1986,Fortaleza,Vestido,2018-03-15,97,85,8245,Marco,3,2
+272,Maryanna,Correa,05/10/1987,Salvador,Camiseta,2018-03-20,6,85,510,Marco,3,4
+265,Tayna,Coimbra,09/03/1989,Rio de Janeiro,Chinelo,2018-03-19,79,300,23700,Marco,3,6
+318,Jucelia,Bailly,11/08/1991,Curitiba,Bermuda,2018-03-29,92,200,18400,Marco,3,1
+229,Izabel,Milagre,26/09/1992,Brasilia,Vestido,2018-03-11,135,230,31050,Novembro,3,8
+280,Joyce,Ribas,15/12/1986,Salvador,Vestido,2018-03-22,90,190,17100,Marco,3,7
+226,Breno,Amaral,08/10/1989,Porto Alegre,Sapato,2018-03-10,83,150,12450,Outubro,3,6
+317,Elizeu,Barros,17/12/1991,Salvador,Saia,2018-03-29,137,150,20550,Marco,3,5
+310,Eduarda,Figueiredo,08/10/1987,Fortaleza,Sapato,2018-03-28,118,150,17700,Marco,3,3
+311,Breno,Amaral,04/11/1988,Porto Alegre,Vestido,2018-03-28,82,110,9020,Marco,3,7
+312,Elizeu,Barros,24/07/1991,Salvador,Camiseta,2018-03-28,108,55,5940,Marco,3,5
+313,Izabel,Milagre,27/04/1993,Rio de Janeiro,Chinelo,2018-03-28,76,75,5700,Marco,3,1
+316,Iago,Bensdorp,27/04/1991,Sao Paulo,Bermuda,2018-03-28,3,85,255,Marco,3,5
+315,Juliane,Felipi,03/01/1991,Rio de Janeiro,Casaco,2018-03-28,9,110,990,Marco,3,2
+314,Paloma,Farias,20/11/1985,Rio de Janeiro,Camiseta,2018-03-28,137,25,3425,Marco,3,7
+308,Maryanna,Correa,05/09/1993,Salvador,Sapato,2018-03-28,139,150,20850,Marco,3,3
+307,Jucelia,Bailly,04/05/1992,Salvador,Casaco,2018-03-28,109,200,21800,Marco,3,8
+306,NatÃ¡lia,Huon,14/10/1986,Fortaleza,Vestido,2018-03-28,120,190,22800,Marco,3,7
+206,Breno,Amaral,10/07/1987,Curitiba,Bermuda,2018-03-04,64,30,1920,Abril,3,8
+205,Emanuella,Fialho,23/05/1990,Porto Alegre,Vestido,2018-03-04,33,75,2475,Abril,3,2
+204,Emanuella,Fialho,30/08/1991,Porto Alegre,Sapato,2018-03-04,36,75,2700,Abril,3,6
+227,Breno,Amaral,06/04/1991,Sao Paulo,Short,2018-03-10,45,200,9000,Outubro,3,5
+228,Breno,Amaral,09/02/1989,Sao Paulo,Tenis,2018-03-10,102,85,8670,Outubro,3,1
+230,Paloma,Farias,12/10/1987,Salvador,Sandalia,2018-03-11,46,200,9200,Novembro,3,2
+231,Juliane,Felipi,01/11/1992,Porto Alegre,Pulseira,2018-03-11,52,25,1300,Novembro,3,8
+309,Jucelia,Bailly,04/07/1986,Curitiba,Sapato,2018-03-28,100,190,19000,Marco,3,4
+233,Andrew,Carvalhal,15/07/1992,Fortaleza,Vestido,2018-03-12,13,250,3250,Dezembro,3,1
+319,Jucelia,Bailly,18/09/1989,Sao Paulo,Bermuda,2018-03-29,79,110,8690,Marco,3,4
+321,Andrew,Carvalhal,30/04/1985,Rio de Janeiro,Sapato,2018-03-29,95,55,5225,Marco,3,3
+322,Patricia,Camara,15/10/1987,Rio de Janeiro,Sandalia,2018-03-29,91,55,5005,Marco,3,2
+320,Jucelia,Bailly,26/05/1990,Curitiba,Sandalia,2018-03-29,20,300,6000,Marco,3,5
+324,Juliane,Felipi,10/01/1990,Salvador,Casaco,2018-03-29,5,190,950,Marco,3,4
+232,Juliane,Felipi,03/03/1991,Porto Alegre,Vestido,2018-03-12,73,300,21900,Dezembro,3,1
+323,Iago,Bensdorp,14/03/1991,Salvador,Saia,2018-03-29,11,230,2530,Marco,3,3
+212,Iago,Bensdorp,05/03/1991,Porto Alegre,Chinelo,2018-03-05,117,55,6435,Maio,3,2
+213,Eduarda,Figueiredo,17/07/1992,Rio de Janeiro,Sandalia,2018-03-05,59,55,3245,Maio,3,8
+208,Breno,Amaral,04/11/1989,Rio de Janeiro,Vestido,2018-03-04,3,250,750,Abril,3,1
+254,Iago,Bensdorp,30/07/1989,Sao Paulo,Saia,2018-03-16,54,110,5940,Marco,3,4
+271,Andrew,Carvalhal,01/08/1986,Curitiba,Casaco,2018-03-20,127,25,3175,Marco,3,7
+268,Jucelia,Bailly,23/11/1993,Fortaleza,Casaco,2018-03-20,111,110,12210,Marco,3,8
+269,Joyce,Ribas,02/02/1988,Brasilia,Casaco,2018-03-20,67,110,7370,Marco,3,5
+270,Eduarda,Figueiredo,30/10/1988,Rio de Janeiro,Vestido,2018-03-20,47,75,3525,Marco,3,1
+234,Juliane,Felipi,05/05/1985,Porto Alegre,Casaco,2018-03-12,30,75,2250,Dezembro,3,8
+235,Maryanna,Correa,30/07/1993,Brasilia,Sapato,2018-03-12,64,25,1600,Dezembro,3,3
+236,Tayna,Coimbra,05/10/1991,Curitiba,Chinelo,2018-03-12,23,25,575,Dezembro,3,2
+207,Eduarda,Figueiredo,12/02/1992,Brasilia,Vestido,2018-03-04,23,55,1265,Abril,3,2
+411,Elizeu,Barros,21/07/1986,Curitiba,Sapato,2018-04-17,19,75,1425,Abril,4,4
+412,Patricia,Camara,16/02/1985,Porto Alegre,Jaqueta,2018-04-17,6,150,900,Abril,4,1
+404,Juliane,Felipi,23/05/1993,Curitiba,Vestido,2018-04-16,137,300,41100,Abril,4,8
+430,Breno,Amaral,22/01/1990,Salvador,Vestido,2018-04-21,143,30,4290,Abril,4,6
+428,Patricia,Camara,30/03/1989,Rio de Janeiro,Sapato,2018-04-21,60,110,6600,Abril,4,7
+429,Izabel,Milagre,18/06/1989,Brasilia,Sapato,2018-04-21,99,55,5445,Abril,4,4
+407,Elizeu,Barros,25/07/1986,Curitiba,Chinelo,2018-04-16,18,110,1980,Abril,4,8
+405,Juliane,Felipi,28/11/1993,Salvador,Sapato,2018-04-16,33,85,2805,Abril,4,4
+406,Elizeu,Barros,31/07/1988,Salvador,Casaco,2018-04-16,80,30,2400,Abril,4,3
+409,Juliane,Felipi,13/01/1992,Salvador,Casaco,2018-04-17,123,200,24600,Abril,4,8
+427,Jucelia,Bailly,23/04/1989,Brasilia,Saia,2018-04-21,36,190,6840,Abril,4,1
+410,Elizeu,Barros,25/08/1993,Brasilia,Casaco,2018-04-17,43,300,12900,Abril,4,7
+393,Maryanna,Correa,02/12/1988,Rio de Janeiro,Vestido,2018-04-14,89,230,20470,Abril,4,2
+415,Andrew,Carvalhal,18/09/1993,Fortaleza,Sapato,2018-04-18,89,55,4895,Abril,4,1
+392,Paloma,Farias,13/12/1988,Sao Paulo,Sapato,2018-04-14,142,150,21300,Abril,4,3
+391,Joyce,Ribas,25/10/1990,Porto Alegre,Jaqueta,2018-04-14,150,250,37500,Abril,4,2
+394,Joyce,Ribas,22/03/1992,Fortaleza,Vestido,2018-04-14,76,230,17480,Abril,4,3
+397,Andrew,Carvalhal,30/08/1991,Porto Alegre,Sapato,2018-04-14,62,110,6820,Abril,4,5
+398,Elizeu,Barros,31/12/1988,Fortaleza,Sapato,2018-04-14,21,300,6300,Abril,4,8
+399,Eduarda,Figueiredo,15/02/1986,Salvador,Casaco,2018-04-14,13,85,1105,Abril,4,1
+396,Maryanna,Correa,05/04/1993,Salvador,Casaco,2018-04-14,64,110,7040,Abril,4,2
+426,Breno,Amaral,24/07/1989,Fortaleza,Sapato,2018-04-20,88,30,2640,Abril,4,1
+425,Izabel,Milagre,16/06/1992,Fortaleza,Pulseira,2018-04-20,72,110,7920,Abril,4,4
+424,Eduarda,Figueiredo,17/09/1992,Rio de Janeiro,Chinelo,2018-04-20,95,85,8075,Abril,4,6
+423,Elizeu,Barros,13/03/1987,Curitiba,Vestido,2018-04-20,143,190,27170,Abril,4,1
+419,Elizeu,Barros,26/06/1988,Rio de Janeiro,Vestido,2018-04-19,98,150,14700,Abril,4,5
+422,Jucelia,Bailly,02/12/1993,Sao Paulo,Vestido,2018-04-19,1,30,30,Abril,4,8
+421,Patricia,Camara,06/07/1985,Porto Alegre,Casaco,2018-04-19,35,55,1925,Abril,4,8
+420,Maryanna,Correa,13/04/1990,Porto Alegre,Casaco,2018-04-19,52,55,2860,Abril,4,8
+390,Jucelia,Bailly,06/08/1989,Rio de Janeiro,Sapato,2018-04-13,34,75,2550,Abril,4,1
+388,Eduarda,Figueiredo,01/06/1990,Rio de Janeiro,Casaco,2018-04-13,88,190,16720,Abril,4,5
+389,Joyce,Ribas,05/03/1993,Brasilia,Jaqueta,2018-04-13,81,150,12150,Abril,4,2
+401,Andrew,Carvalhal,11/09/1991,Fortaleza,Casaco,2018-04-15,105,200,21000,Abril,4,3
+403,Emanuella,Fialho,11/09/1993,Rio de Janeiro,Vestido,2018-04-15,6,250,1500,Abril,4,1
+402,Eduarda,Figueiredo,03/04/1990,Sao Paulo,Sandalia,2018-04-15,93,55,5115,Abril,4,1
+400,Iago,Bensdorp,04/01/1987,Fortaleza,Vestido,2018-04-15,143,250,35750,Abril,4,7
+413,Elizeu,Barros,25/08/1985,Rio de Janeiro,Sapato,2018-04-18,100,190,19000,Abril,4,6
+414,Jucelia,Bailly,05/09/1987,Sao Paulo,Sapato,2018-04-18,80,85,6800,Abril,4,4
+418,Tayna,Coimbra,13/11/1987,Salvador,Vestido,2018-04-18,11,30,330,Abril,4,3
+417,Juliane,Felipi,22/03/1985,Curitiba,Camiseta,2018-04-18,19,55,1045,Abril,4,1
+416,Patricia,Camara,21/06/1986,Brasilia,Vestido,2018-04-18,20,55,1100,Abril,4,8
+408,Izabel,Milagre,16/07/1986,Salvador,Sapato,2018-04-17,137,250,34250,Abril,4,8
+395,Izabel,Milagre,09/10/1987,Rio de Janeiro,Vestido,2018-04-14,85,190,16150,Abril,4,4
+438,Joyce,Ribas,16/02/1987,Sao Paulo,Vestido,2018-04-24,143,55,7865,Abril,4,1
+450,Patricia,Camara,01/03/1985,Salvador,Casaco,2018-04-26,21,190,3990,Abril,4,3
+372,Andrew,Carvalhal,04/09/1991,Porto Alegre,Vestido,2018-04-09,43,110,4730,Setembro,4,1
+363,Andrew,Carvalhal,12/09/1991,Porto Alegre,Casaco,2018-04-08,60,190,11400,Agosto,4,4
+368,Eduarda,Figueiredo,17/03/1991,Sao Paulo,Casaco,2018-04-08,122,30,3660,Agosto,4,7
+367,Jucelia,Bailly,08/11/1986,Rio de Janeiro,Casaco,2018-04-08,129,30,3870,Agosto,4,6
+366,Andrew,Carvalhal,29/04/1990,Rio de Janeiro,Vestido,2018-04-08,36,150,5400,Agosto,4,6
+459,Maryanna,Correa,21/02/1986,Brasilia,Vestido,2018-04-28,55,230,12650,Abril,4,2
+461,Elizeu,Barros,11/02/1993,Sao Paulo,Tenis,2018-04-28,94,110,10340,Abril,4,8
+462,Iago,Bensdorp,14/07/1991,Curitiba,Sandalia,2018-04-28,66,25,1650,Abril,4,8
+463,Andrew,Carvalhal,21/01/1993,Sao Paulo,Saia,2018-04-28,2,150,300,Abril,4,4
+374,Patricia,Camara,07/05/1988,Porto Alegre,Short,2018-04-09,8,190,1520,Setembro,4,5
+460,Paloma,Farias,15/02/1989,Rio de Janeiro,Camiseta,2018-04-28,57,190,10830,Abril,4,8
+454,Juliane,Felipi,06/10/1990,Porto Alegre,Saia,2018-04-27,142,250,35500,Abril,4,5
+455,Eduarda,Figueiredo,27/05/1992,Rio de Janeiro,Tenis,2018-04-27,55,190,10450,Abril,4,6
+456,Emanuella,Fialho,10/05/1991,Fortaleza,Sapato,2018-04-27,117,85,9945,Abril,4,2
+457,Patricia,Camara,19/10/1991,Rio de Janeiro,Sandalia,2018-04-27,130,25,3250,Abril,4,1
+458,Elizeu,Barros,13/03/1989,Sao Paulo,Sandalia,2018-04-27,26,110,2860,Abril,4,1
+365,Breno,Amaral,10/12/1988,Curitiba,Tenis,2018-04-08,39,150,5850,Agosto,4,5
+364,Jucelia,Bailly,11/03/1985,Curitiba,Saia,2018-04-08,123,55,6765,Agosto,4,5
+362,Emanuella,Fialho,29/09/1985,Brasilia,Sapato,2018-04-07,18,75,1350,Julho,4,3
+361,Elizeu,Barros,08/09/1989,Fortaleza,Chinelo,2018-04-06,139,230,31970,Junho,4,3
+386,Juliane,Felipi,13/05/1990,Porto Alegre,Camiseta,2018-04-12,120,25,3000,Dezembro,4,3
+360,Juliane,Felipi,19/08/1988,Sao Paulo,Short,2018-04-05,14,110,1540,Maio,4,3
+373,Maryanna,Correa,05/04/1990,Brasilia,Vestido,2018-04-09,24,85,2040,Setembro,4,4
+370,Patricia,Camara,02/10/1990,Porto Alegre,Vestido,2018-04-09,79,75,5925,Setembro,4,8
+384,Emanuella,Fialho,14/09/1991,Sao Paulo,Camiseta,2018-04-12,47,190,8930,Dezembro,4,8
+387,Joyce,Ribas,24/03/1987,Fortaleza,Sandalia,2018-04-12,3,250,750,Dezembro,4,8
+383,Joyce,Ribas,09/12/1987,Porto Alegre,Vestido,2018-04-11,15,85,1275,Novembro,4,4
+382,Jucelia,Bailly,14/05/1987,Curitiba,Vestido,2018-04-11,109,55,5995,Novembro,4,7
+381,Emanuella,Fialho,12/03/1991,Brasilia,Saia,2018-04-11,45,190,8550,Novembro,4,2
+471,Andrew,Carvalhal,04/01/1987,Porto Alegre,Sapato,2018-04-30,58,110,6380,Abril,4,5
+470,Emanuella,Fialho,09/05/1988,Sao Paulo,Sandalia,2018-04-30,147,110,16170,Abril,4,4
+464,Elizeu,Barros,09/04/1988,Brasilia,Sandalia,2018-04-29,146,190,27740,Abril,4,8
+469,Andrew,Carvalhal,14/09/1992,Porto Alegre,Tenis,2018-04-29,4,75,300,Abril,4,5
+369,Patricia,Camara,18/04/1985,Brasilia,Vestido,2018-04-09,118,55,6490,Setembro,4,3
+467,Juliane,Felipi,01/10/1993,Brasilia,Casaco,2018-04-29,78,30,2340,Abril,4,3
+380,Patricia,Camara,04/11/1992,Curitiba,Camiseta,2018-04-11,38,230,8740,Novembro,4,7
+378,Maryanna,Correa,30/11/1989,Fortaleza,Short,2018-04-11,124,300,37200,Novembro,4,4
+379,Andrew,Carvalhal,23/07/1992,Salvador,Pulseira,2018-04-11,41,300,12300,Novembro,4,8
+377,Emanuella,Fialho,08/11/1985,Fortaleza,Sapato,2018-04-10,4,150,600,Outubro,4,4
+375,Iago,Bensdorp,28/03/1990,Porto Alegre,Vestido,2018-04-10,69,250,17250,Outubro,4,3
+376,Izabel,Milagre,31/03/1990,Curitiba,Vestido,2018-04-10,87,75,6525,Outubro,4,6
+371,Maryanna,Correa,08/01/1985,Porto Alegre,Casaco,2018-04-09,28,190,5320,Setembro,4,7
+465,Breno,Amaral,04/08/1991,Porto Alegre,Vestido,2018-04-29,43,300,12900,Abril,4,5
+468,Jucelia,Bailly,09/01/1993,Rio de Janeiro,Vestido,2018-04-29,9,150,1350,Abril,4,3
+466,Izabel,Milagre,20/09/1992,Curitiba,Jaqueta,2018-04-29,42,75,3150,Abril,4,8
+359,Emanuella,Fialho,22/12/1986,Fortaleza,Jaqueta,2018-04-05,51,75,3825,Maio,4,3
+385,Breno,Amaral,11/12/1986,Curitiba,Tenis,2018-04-12,63,110,6930,Dezembro,4,1
+346,Jucelia,Bailly,01/08/1986,Porto Alegre,Vestido,2018-04-03,80,150,12000,Marco,4,3
+349,Juliane,Felipi,19/11/1992,Fortaleza,Pulseira,2018-04-03,80,25,2000,Marco,4,2
+436,Joyce,Ribas,13/09/1985,Rio de Janeiro,Vestido,2018-04-24,47,300,14100,Abril,4,4
+339,Maryanna,Correa,18/10/1989,Curitiba,Chinelo,2018-04-01,63,25,1575,Janeiro,4,2
+337,Emanuella,Fialho,08/09/1992,Rio de Janeiro,Casaco,2018-04-01,84,110,9240,Janeiro,4,7
+437,Breno,Amaral,01/09/1985,Salvador,Bermuda,2018-04-24,96,85,8160,Abril,4,5
+439,Breno,Amaral,06/09/1992,Curitiba,Sapato,2018-04-24,98,75,7350,Abril,4,8
+434,Jucelia,Bailly,10/09/1989,Porto Alegre,Sandalia,2018-04-24,120,250,30000,Abril,4,6
+440,Paloma,Farias,23/05/1990,Salvador,Casaco,2018-04-24,72,85,6120,Abril,4,4
+435,Joyce,Ribas,27/09/1989,Fortaleza,Camiseta,2018-04-24,79,200,15800,Abril,4,5
+441,Patricia,Camara,29/03/1987,Rio de Janeiro,Saia,2018-04-24,24,150,3600,Abril,4,3
+348,Andrew,Carvalhal,03/03/1992,Sao Paulo,Short,2018-04-03,16,300,4800,Marco,4,3
+345,Iago,Bensdorp,03/10/1993,Sao Paulo,Vestido,2018-04-03,74,230,17020,Marco,4,3
+445,NatÃ¡lia,Huon,13/09/1990,Sao Paulo,Vestido,2018-04-26,142,200,28400,Abril,4,6
+347,Patricia,Camara,29/11/1990,Sao Paulo,Vestido,2018-04-03,50,190,9500,Marco,4,4
+350,Izabel,Milagre,05/12/1990,Curitiba,Casaco,2018-04-03,5,75,375,Marco,4,4
+343,Joyce,Ribas,01/08/1993,Fortaleza,Sapato,2018-04-02,5,200,1000,Fevereiro,4,1
+342,Iago,Bensdorp,29/04/1986,Rio de Janeiro,Saia,2018-04-02,80,85,6800,Fevereiro,4,4
+341,Breno,Amaral,13/04/1988,Curitiba,Saia,2018-04-02,113,85,9605,Fevereiro,4,3
+340,Joyce,Ribas,29/11/1987,Brasilia,Camiseta,2018-04-02,145,110,15950,Fevereiro,4,2
+336,Iago,Bensdorp,18/12/1989,Porto Alegre,Camiseta,2018-04-01,44,230,10120,Janeiro,4,8
+431,Paloma,Farias,20/09/1985,Curitiba,Vestido,2018-04-23,101,190,19190,Abril,4,3
+344,Jucelia,Bailly,06/06/1990,Porto Alegre,Camiseta,2018-04-02,9,30,270,Fevereiro,4,5
+335,Maryanna,Correa,10/05/1991,Sao Paulo,Saia,2018-04-01,133,85,11305,Janeiro,4,8
+333,NatÃ¡lia,Huon,14/03/1989,Curitiba,Vestido,2018-04-01,124,190,23560,Janeiro,4,8
+334,Jucelia,Bailly,18/03/1989,Brasilia,Sapato,2018-04-01,137,110,15070,Janeiro,4,8
+432,Maryanna,Correa,06/11/1986,Sao Paulo,Saia,2018-04-23,137,85,11645,Abril,4,1
+338,Patricia,Camara,23/11/1993,Brasilia,Sapato,2018-04-01,135,30,4050,Janeiro,4,2
+351,Joyce,Ribas,04/11/1986,Porto Alegre,Sandalia,2018-04-04,106,85,9010,Abril,4,6
+446,Jucelia,Bailly,08/04/1986,Salvador,Casaco,2018-04-26,78,300,23400,Abril,4,4
+453,Paloma,Farias,27/06/1991,Porto Alegre,Casaco,2018-04-26,8,110,880,Abril,4,7
+452,Patricia,Camara,18/08/1992,Rio de Janeiro,Camiseta,2018-04-26,98,30,2940,Abril,4,1
+451,Eduarda,Figueiredo,03/01/1985,Fortaleza,Saia,2018-04-26,66,55,3630,Abril,4,6
+449,Andrew,Carvalhal,25/12/1989,Porto Alegre,Casaco,2018-04-26,47,150,7050,Abril,4,4
+448,Breno,Amaral,29/06/1991,Sao Paulo,Camiseta,2018-04-26,49,200,9800,Abril,4,4
+447,Joyce,Ribas,13/04/1991,Salvador,Sapato,2018-04-26,60,250,15000,Abril,4,8
+358,Elizeu,Barros,06/12/1988,Salvador,Chinelo,2018-04-05,76,55,4180,Maio,4,6
+357,Iago,Bensdorp,10/06/1992,Curitiba,Sapato,2018-04-05,113,75,8475,Maio,4,8
+356,Joyce,Ribas,13/05/1986,Rio de Janeiro,Short,2018-04-05,50,200,10000,Maio,4,4
+354,NatÃ¡lia,Huon,29/05/1988,Brasilia,Casaco,2018-04-05,114,190,21660,Maio,4,8
+433,Elizeu,Barros,14/11/1986,Salvador,Camiseta,2018-04-23,87,30,2610,Abril,4,6
+444,Elizeu,Barros,24/02/1987,Curitiba,Sandalia,2018-04-25,66,25,1650,Abril,4,3
+355,Izabel,Milagre,16/11/1985,Brasilia,Sandalia,2018-04-05,90,190,17100,Maio,4,8
+353,Iago,Bensdorp,31/08/1990,Fortaleza,Vestido,2018-04-04,5,150,750,Abril,4,3
+442,Izabel,Milagre,14/01/1989,Porto Alegre,Sandalia,2018-04-25,142,25,3550,Abril,4,6
+443,Maryanna,Correa,21/11/1986,Porto Alegre,Casaco,2018-04-25,39,85,3315,Abril,4,6
+352,Emanuella,Fialho,14/11/1992,Salvador,Casaco,2018-04-04,69,25,1725,Abril,4,2
+497,Joyce,Ribas,15/10/1993,Sao Paulo,Sapato,2018-05-30,39,55,2145,Maio,5,1
+495,Paloma,Farias,18/05/1985,Curitiba,Pulseira,2018-05-30,115,30,3450,Maio,5,7
+475,Emanuella,Fialho,15/04/1986,Rio de Janeiro,Sapato,2018-05-01,16,75,1200,Janeiro,5,3
+474,Joyce,Ribas,05/11/1989,Curitiba,Vestido,2018-05-01,32,85,2720,Janeiro,5,5
+472,Izabel,Milagre,12/11/1992,Sao Paulo,Sandalia,2018-05-01,101,75,7575,Janeiro,5,4
+473,Maryanna,Correa,19/08/1991,Curitiba,Vestido,2018-05-01,74,55,4070,Janeiro,5,7
+496,Jucelia,Bailly,30/03/1987,Fortaleza,Saia,2018-05-30,123,25,3075,Maio,5,1
+501,Joyce,Ribas,09/07/1985,Curitiba,Vestido,2018-05-31,44,250,11000,Maio,5,4
+505,Breno,Amaral,21/09/1990,Fortaleza,Sapato,2018-05-31,24,25,600,Maio,5,2
+503,Eduarda,Figueiredo,02/12/1989,Brasilia,Short,2018-05-31,37,85,3145,Maio,5,4
+476,Juliane,Felipi,03/11/1990,Brasilia,Vestido,2018-05-02,138,150,20700,Fevereiro,5,2
+504,Joyce,Ribas,25/05/1987,Porto Alegre,Vestido,2018-05-31,11,85,935,Maio,5,7
+502,Maryanna,Correa,13/05/1987,Porto Alegre,Tenis,2018-05-31,45,230,10350,Maio,5,2
+499,Joyce,Ribas,31/08/1990,Brasilia,Sapato,2018-05-31,125,150,18750,Maio,5,6
+498,Eduarda,Figueiredo,06/01/1985,Curitiba,Vestido,2018-05-30,30,25,750,Maio,5,1
+500,Iago,Bensdorp,22/09/1993,Brasilia,Vestido,2018-05-31,114,150,17100,Maio,5,3
+481,Paloma,Farias,01/06/1986,Curitiba,Casaco,2018-05-26,32,55,1760,Maio,5,3
+494,Joyce,Ribas,08/05/1987,Brasilia,Camiseta,2018-05-29,16,110,1760,Maio,5,5
+479,Emanuella,Fialho,06/06/1990,Porto Alegre,Sandalia,2018-05-26,136,55,7480,Maio,5,4
+478,Jucelia,Bailly,21/07/1987,Sao Paulo,Saia,2018-05-26,36,300,10800,Maio,5,7
+477,Izabel,Milagre,02/12/1988,Curitiba,Pulseira,2018-05-26,115,150,17250,Maio,5,8
+480,Izabel,Milagre,07/06/1985,Rio de Janeiro,Chinelo,2018-05-26,14,150,2100,Maio,5,7
+485,Juliane,Felipi,19/12/1986,Porto Alegre,Casaco,2018-05-27,126,25,3150,Maio,5,3
+484,Maryanna,Correa,19/02/1992,Brasilia,Sapato,2018-05-27,47,110,5170,Maio,5,5
+482,Breno,Amaral,22/04/1988,Curitiba,Casaco,2018-05-27,126,75,9450,Maio,5,5
+488,Juliane,Felipi,28/02/1988,Rio de Janeiro,Casaco,2018-05-28,13,85,1105,Maio,5,6
+490,Breno,Amaral,01/01/1985,Brasilia,Sapato,2018-05-29,128,230,29440,Maio,5,1
+486,Maryanna,Correa,31/07/1990,Sao Paulo,Sandalia,2018-05-28,128,30,3840,Maio,5,6
+489,Maryanna,Correa,16/04/1985,Porto Alegre,Bermuda,2018-05-28,25,25,625,Maio,5,1
+491,NatÃ¡lia,Huon,04/02/1987,Rio de Janeiro,Jaqueta,2018-05-29,118,190,22420,Maio,5,2
+492,Joyce,Ribas,11/12/1992,Porto Alegre,Jaqueta,2018-05-29,95,230,21850,Maio,5,7
+493,Emanuella,Fialho,13/03/1988,Porto Alegre,Short,2018-05-29,111,110,12210,Maio,5,5
+487,Jucelia,Bailly,30/07/1988,Rio de Janeiro,Sapato,2018-05-28,18,150,2700,Maio,5,6
+483,Jucelia,Bailly,09/04/1989,Fortaleza,Saia,2018-05-27,39,150,5850,Maio,5,4
+547,Paloma,Farias,30/03/1990,Brasilia,Sapato,2018-06-17,128,230,29440,Junho,6,2
+556,Maryanna,Correa,13/11/1993,Curitiba,Camiseta,2018-06-18,24,85,2040,Junho,6,8
+548,Eduarda,Figueiredo,29/06/1989,Curitiba,Sandalia,2018-06-17,68,190,12920,Junho,6,4
+549,Elizeu,Barros,12/01/1989,Rio de Janeiro,Saia,2018-06-17,68,85,5780,Junho,6,6
+551,Iago,Bensdorp,28/03/1992,Porto Alegre,Jaqueta,2018-06-18,119,300,35700,Junho,6,5
+555,Eduarda,Figueiredo,07/03/1987,Porto Alegre,Pulseira,2018-06-18,36,75,2700,Junho,6,1
+552,Iago,Bensdorp,15/05/1990,Fortaleza,Camiseta,2018-06-18,82,230,18860,Junho,6,4
+550,Joyce,Ribas,27/05/1991,Porto Alegre,Sapato,2018-06-17,16,30,480,Junho,6,1
+554,Maryanna,Correa,19/04/1989,Salvador,Vestido,2018-06-18,20,190,3800,Junho,6,1
+583,Maryanna,Correa,30/10/1991,Fortaleza,Short,2018-06-22,149,55,8195,Junho,6,4
+617,Paloma,Farias,14/07/1990,Sao Paulo,Vestido,2018-06-30,22,110,2420,Junho,6,8
+605,Patricia,Camara,23/01/1986,Porto Alegre,Sandalia,2018-06-26,15,230,3450,Junho,6,6
+604,Andrew,Carvalhal,07/09/1987,Brasilia,Sapato,2018-06-26,56,85,4760,Junho,6,6
+597,Emanuella,Fialho,14/08/1989,Curitiba,Saia,2018-06-25,44,200,8800,Junho,6,6
+594,Elizeu,Barros,01/04/1986,Rio de Janeiro,Casaco,2018-06-25,95,250,23750,Junho,6,7
+596,Andrew,Carvalhal,30/05/1988,Porto Alegre,Bermuda,2018-06-25,57,300,17100,Junho,6,4
+595,Izabel,Milagre,22/04/1993,Sao Paulo,Bermuda,2018-06-25,59,300,17700,Junho,6,7
+599,Elizeu,Barros,11/01/1986,Salvador,Casaco,2018-06-25,2,110,220,Junho,6,4
+598,Eduarda,Figueiredo,06/06/1988,Brasilia,Camiseta,2018-06-25,2,190,380,Junho,6,8
+593,Tayna,Coimbra,29/11/1988,Porto Alegre,Saia,2018-06-24,7,150,1050,Junho,6,4
+591,NatÃ¡lia,Huon,09/09/1992,Curitiba,Vestido,2018-06-24,82,300,24600,Junho,6,6
+592,Joyce,Ribas,08/08/1993,Salvador,Sapato,2018-06-24,89,110,9790,Junho,6,3
+590,Eduarda,Figueiredo,01/11/1992,Salvador,Vestido,2018-06-23,53,75,3975,Junho,6,1
+589,Breno,Amaral,26/08/1992,Salvador,Camiseta,2018-06-23,73,55,4015,Junho,6,1
+606,Paloma,Farias,24/11/1993,Fortaleza,Vestido,2018-06-26,5,150,750,Junho,6,2
+587,Maryanna,Correa,06/09/1991,Brasilia,Camiseta,2018-06-23,24,190,4560,Junho,6,6
+573,Paloma,Farias,01/10/1990,Salvador,Tenis,2018-06-21,87,250,21750,Junho,6,8
+574,Joyce,Ribas,18/06/1986,Sao Paulo,Short,2018-06-21,79,85,6715,Junho,6,7
+575,Eduarda,Figueiredo,24/12/1992,Porto Alegre,Sandalia,2018-06-21,89,75,6675,Junho,6,8
+576,Joyce,Ribas,26/07/1992,Porto Alegre,Camiseta,2018-06-21,53,75,3975,Junho,6,5
+577,Paloma,Farias,25/07/1985,Sao Paulo,Casaco,2018-06-21,17,230,3910,Junho,6,1
+578,Andrew,Carvalhal,25/01/1986,Sao Paulo,Sapato,2018-06-21,9,150,1350,Junho,6,3
+572,Jucelia,Bailly,18/01/1991,Salvador,Sandalia,2018-06-21,141,250,35250,Junho,6,6
+585,Elizeu,Barros,19/03/1986,Sao Paulo,Casaco,2018-06-23,63,110,6930,Junho,6,4
+588,Elizeu,Barros,09/03/1991,Brasilia,Vestido,2018-06-23,138,30,4140,Junho,6,1
+579,Jucelia,Bailly,17/02/1991,Porto Alegre,Vestido,2018-06-22,145,200,29000,Junho,6,5
+580,Emanuella,Fialho,02/03/1988,Porto Alegre,Sapato,2018-06-22,70,250,17500,Junho,6,2
+581,Andrew,Carvalhal,08/11/1992,Brasilia,Sapato,2018-06-22,131,85,11135,Junho,6,2
+582,Joyce,Ribas,09/06/1987,Salvador,Vestido,2018-06-22,51,200,10200,Junho,6,1
+586,Emanuella,Fialho,17/02/1991,Rio de Janeiro,Jaqueta,2018-06-23,73,75,5475,Junho,6,8
+620,Maryanna,Correa,11/08/1987,Porto Alegre,Bermuda,2018-06-30,1,55,55,Junho,6,1
+602,Paloma,Farias,26/01/1993,Fortaleza,Bermuda,2018-06-26,132,75,9900,Junho,6,3
+600,Juliane,Felipi,16/09/1989,Salvador,Casaco,2018-06-26,123,300,36900,Junho,6,2
+616,Maryanna,Correa,14/04/1986,Rio de Janeiro,Vestido,2018-06-30,131,30,3930,Junho,6,6
+615,Izabel,Milagre,21/06/1986,Curitiba,Saia,2018-06-30,25,230,5750,Junho,6,1
+618,Tayna,Coimbra,27/04/1989,Sao Paulo,Chinelo,2018-06-30,86,25,2150,Junho,6,1
+619,Maryanna,Correa,29/07/1987,Sao Paulo,Camiseta,2018-06-30,61,30,1830,Junho,6,1
+566,Iago,Bensdorp,17/07/1992,Curitiba,Camiseta,2018-06-19,64,25,1600,Junho,6,2
+557,NatÃ¡lia,Huon,07/11/1989,Porto Alegre,Vestido,2018-06-19,118,190,22420,Junho,6,6
+584,Eduarda,Figueiredo,19/09/1991,Curitiba,Chinelo,2018-06-22,15,85,1275,Junho,6,2
+559,Maryanna,Correa,24/03/1993,Sao Paulo,Chinelo,2018-06-19,117,85,9945,Junho,6,4
+565,Iago,Bensdorp,01/07/1990,Curitiba,Tenis,2018-06-19,67,30,2010,Junho,6,1
+564,Iago,Bensdorp,19/06/1985,Porto Alegre,Camiseta,2018-06-19,38,85,3230,Junho,6,8
+563,Maryanna,Correa,27/02/1985,Porto Alegre,Short,2018-06-19,132,25,3300,Junho,6,2
+562,Breno,Amaral,13/03/1986,Fortaleza,Bermuda,2018-06-19,45,75,3375,Junho,6,1
+561,Breno,Amaral,15/01/1987,Salvador,Sapato,2018-06-19,14,300,4200,Junho,6,1
+601,Juliane,Felipi,12/11/1987,Curitiba,Casaco,2018-06-26,115,190,21850,Junho,6,6
+560,Eduarda,Figueiredo,07/11/1990,Salvador,Vestido,2018-06-19,38,150,5700,Junho,6,7
+611,Emanuella,Fialho,13/02/1990,Salvador,Tenis,2018-06-28,52,85,4420,Junho,6,1
+612,Breno,Amaral,10/08/1991,Sao Paulo,Tenis,2018-06-28,55,75,4125,Junho,6,8
+610,Izabel,Milagre,26/09/1988,Rio de Janeiro,Sandalia,2018-06-28,48,190,9120,Junho,6,4
+609,Eduarda,Figueiredo,25/09/1992,Sao Paulo,Sapato,2018-06-28,76,150,11400,Junho,6,8
+613,Joyce,Ribas,02/10/1991,Fortaleza,Short,2018-06-28,48,85,4080,Junho,6,6
+614,Tayna,Coimbra,07/01/1993,Sao Paulo,Casaco,2018-06-28,22,55,1210,Junho,6,4
+571,Emanuella,Fialho,16/11/1986,Rio de Janeiro,Vestido,2018-06-20,145,25,3625,Junho,6,1
+570,NatÃ¡lia,Huon,22/10/1993,Porto Alegre,Vestido,2018-06-20,113,110,12430,Junho,6,8
+569,Andrew,Carvalhal,13/08/1985,Fortaleza,Vestido,2018-06-20,95,150,14250,Junho,6,2
+568,Paloma,Farias,18/08/1990,Brasilia,Vestido,2018-06-20,95,200,19000,Junho,6,4
+608,Patricia,Camara,01/01/1992,Curitiba,Vestido,2018-06-27,43,25,1075,Junho,6,8
+607,Paloma,Farias,11/10/1990,Fortaleza,Sandalia,2018-06-27,21,300,6300,Junho,6,6
+603,Maryanna,Correa,29/07/1988,Rio de Janeiro,Sapato,2018-06-26,60,110,6600,Junho,6,5
+558,Joyce,Ribas,21/05/1992,Sao Paulo,Camiseta,2018-06-19,141,75,10575,Junho,6,1
+567,Andrew,Carvalhal,01/01/1989,Brasilia,Saia,2018-06-19,47,30,1410,Junho,6,7
+553,Eduarda,Figueiredo,15/07/1989,Porto Alegre,Tenis,2018-06-18,44,230,10120,Junho,6,1
+520,Tayna,Coimbra,12/06/1993,Fortaleza,Camiseta,2018-06-08,19,55,1045,Agosto,6,4
+509,Elizeu,Barros,15/08/1987,Salvador,Short,2018-06-06,65,75,4875,Junho,6,3
+507,Izabel,Milagre,06/10/1991,Sao Paulo,Casaco,2018-06-01,77,190,14630,Janeiro,6,1
+537,Joyce,Ribas,30/05/1988,Porto Alegre,Chinelo,2018-06-14,63,250,15750,Junho,6,3
+518,Jucelia,Bailly,04/07/1986,Fortaleza,Vestido,2018-06-08,90,150,13500,Agosto,6,8
+528,Iago,Bensdorp,14/09/1985,Fortaleza,Sapato,2018-06-11,113,75,8475,Novembro,6,3
+527,Elizeu,Barros,28/02/1992,Salvador,Casaco,2018-06-11,111,230,25530,Novembro,6,2
+526,Eduarda,Figueiredo,12/11/1992,Curitiba,Sapato,2018-06-10,1,230,230,Outubro,6,1
+525,Juliane,Felipi,11/02/1990,Salvador,Vestido,2018-06-10,27,85,2295,Outubro,6,5
+524,Izabel,Milagre,12/08/1988,Rio de Janeiro,Vestido,2018-06-10,10,230,2300,Outubro,6,1
+523,Emanuella,Fialho,14/12/1990,Curitiba,Casaco,2018-06-10,35,110,3850,Outubro,6,6
+522,Elizeu,Barros,17/12/1987,Rio de Janeiro,Vestido,2018-06-10,87,55,4785,Outubro,6,2
+536,Maryanna,Correa,22/01/1986,Rio de Janeiro,Short,2018-06-14,109,190,20710,Junho,6,2
+541,Patricia,Camara,29/06/1991,Porto Alegre,Casaco,2018-06-14,79,85,6715,Junho,6,8
+539,Andrew,Carvalhal,22/10/1986,Fortaleza,Chinelo,2018-06-14,54,200,10800,Junho,6,5
+540,Maryanna,Correa,22/09/1990,Brasilia,Casaco,2018-06-14,60,150,9000,Junho,6,7
+538,Maryanna,Correa,21/04/1991,Porto Alegre,Chinelo,2018-06-14,48,300,14400,Junho,6,8
+542,Patricia,Camara,20/01/1985,Salvador,Vestido,2018-06-14,4,25,100,Junho,6,8
+510,Elizeu,Barros,06/02/1993,Rio de Janeiro,Vestido,2018-06-06,6,25,150,Junho,6,2
+545,Iago,Bensdorp,12/02/1992,Rio de Janeiro,Chinelo,2018-06-16,123,300,36900,Junho,6,4
+508,Jucelia,Bailly,09/11/1992,Sao Paulo,Sapato,2018-06-01,63,85,5355,Janeiro,6,4
+529,Iago,Bensdorp,22/05/1993,Fortaleza,Casaco,2018-06-11,4,85,340,Novembro,6,2
+519,Joyce,Ribas,25/10/1993,Rio de Janeiro,Vestido,2018-06-08,11,200,2200,Agosto,6,7
+517,Tayna,Coimbra,22/08/1990,Porto Alegre,Vestido,2018-06-08,124,200,24800,Agosto,6,1
+514,Elizeu,Barros,07/05/1986,Porto Alegre,Casaco,2018-06-07,131,55,7205,Julho,6,4
+513,Iago,Bensdorp,17/10/1992,Salvador,Vestido,2018-06-07,61,150,9150,Julho,6,2
+512,Emanuella,Fialho,11/07/1990,Salvador,Vestido,2018-06-07,127,85,10795,Julho,6,2
+511,Joyce,Ribas,10/01/1988,Sao Paulo,Camiseta,2018-06-07,144,75,10800,Julho,6,2
+515,Izabel,Milagre,30/12/1991,Salvador,Sandalia,2018-06-07,96,75,7200,Julho,6,2
+516,Tayna,Coimbra,04/05/1991,Fortaleza,Vestido,2018-06-07,5,85,425,Julho,6,6
+543,Jucelia,Bailly,30/09/1989,Porto Alegre,Casaco,2018-06-15,141,300,42300,Junho,6,6
+544,Joyce,Ribas,30/09/1989,Sao Paulo,Bermuda,2018-06-15,20,30,600,Junho,6,5
+521,Breno,Amaral,04/09/1988,Salvador,Camiseta,2018-06-10,129,250,32250,Outubro,6,8
+546,Tayna,Coimbra,13/01/1986,Porto Alegre,Camiseta,2018-06-16,122,250,30500,Junho,6,8
+534,Emanuella,Fialho,15/06/1988,Rio de Janeiro,Vestido,2018-06-13,49,200,9800,Junho,6,5
+533,Jucelia,Bailly,09/09/1987,Curitiba,Sandalia,2018-06-12,127,25,3175,Dezembro,6,3
+532,Breno,Amaral,01/05/1990,Sao Paulo,Sapato,2018-06-12,107,110,11770,Dezembro,6,5
+531,Patricia,Camara,19/02/1989,Brasilia,Sapato,2018-06-12,87,190,16530,Dezembro,6,2
+530,Juliane,Felipi,13/08/1985,Rio de Janeiro,Camiseta,2018-06-12,81,300,24300,Dezembro,6,5
+535,Emanuella,Fialho,16/12/1985,Salvador,Vestido,2018-06-13,17,190,3230,Junho,6,3
+506,Eduarda,Figueiredo,22/11/1993,Porto Alegre,Chinelo,2018-06-01,82,250,20500,Janeiro,6,5
+748,Maryanna,Correa,16/12/1986,Porto Alegre,Camiseta,2018-07-30,53,150,7950,Julho,7,6
+749,Iago,Bensdorp,13/04/1986,Brasilia,Camiseta,2018-07-30,109,55,5995,Julho,7,6
+657,Breno,Amaral,24/09/1986,Curitiba,Short,2018-07-10,104,250,26000,Outubro,7,7
+750,Paloma,Farias,07/05/1991,Rio de Janeiro,Casaco,2018-07-30,122,25,3050,Julho,7,8
+661,Patricia,Camara,03/03/1986,Rio de Janeiro,Chinelo,2018-07-10,54,55,2970,Outubro,7,6
+747,Joyce,Ribas,07/11/1993,Curitiba,Vestido,2018-07-30,70,200,14000,Julho,7,8
+660,Iago,Bensdorp,08/11/1992,Porto Alegre,Casaco,2018-07-10,54,110,5940,Outubro,7,2
+659,Jucelia,Bailly,07/11/1987,Rio de Janeiro,Vestido,2018-07-10,142,55,7810,Outubro,7,4
+729,Izabel,Milagre,24/11/1992,Porto Alegre,Vestido,2018-07-24,23,110,2530,Julho,7,8
+733,Joyce,Ribas,14/07/1992,Porto Alegre,Sandalia,2018-07-25,103,55,5665,Julho,7,6
+706,Elizeu,Barros,24/05/1991,Rio de Janeiro,Pulseira,2018-07-19,119,250,29750,Julho,7,7
+707,Emanuella,Fialho,02/03/1985,Fortaleza,Vestido,2018-07-19,27,200,5400,Julho,7,6
+709,Paloma,Farias,19/01/1990,Sao Paulo,Casaco,2018-07-19,34,85,2890,Julho,7,1
+710,Joyce,Ribas,18/06/1991,Brasilia,Sapato,2018-07-19,12,230,2760,Julho,7,3
+682,Maryanna,Correa,15/06/1991,Curitiba,Saia,2018-07-14,15,230,3450,Julho,7,6
+674,Elizeu,Barros,27/09/1985,Rio de Janeiro,Casaco,2018-07-14,133,250,33250,Julho,7,7
+731,Andrew,Carvalhal,29/11/1991,Salvador,Vestido,2018-07-25,130,250,32500,Julho,7,4
+732,Izabel,Milagre,19/05/1989,Sao Paulo,Vestido,2018-07-25,35,300,10500,Julho,7,7
+751,Maryanna,Correa,09/07/1993,Salvador,Sapato,2018-07-30,74,25,1850,Julho,7,4
+708,Juliane,Felipi,27/07/1986,Sao Paulo,Saia,2018-07-19,143,25,3575,Julho,7,6
+679,Joyce,Ribas,21/08/1991,Porto Alegre,Chinelo,2018-07-14,107,85,9095,Julho,7,6
+683,Patricia,Camara,05/04/1990,Brasilia,Sapato,2018-07-14,27,55,1485,Julho,7,7
+672,Emanuella,Fialho,04/11/1987,Salvador,Casaco,2018-07-12,94,30,2820,Dezembro,7,7
+667,Eduarda,Figueiredo,24/07/1987,Rio de Janeiro,Sandalia,2018-07-12,124,75,9300,Dezembro,7,4
+736,Iago,Bensdorp,24/05/1988,Brasilia,Sapato,2018-07-26,91,230,20930,Julho,7,3
+737,Emanuella,Fialho,22/07/1988,Salvador,Sapato,2018-07-26,81,200,16200,Julho,7,1
+655,Iago,Bensdorp,25/10/1990,Brasilia,Tenis,2018-07-09,127,25,3175,Setembro,7,2
+654,Izabel,Milagre,29/05/1990,Fortaleza,Tenis,2018-07-09,99,300,29700,Setembro,7,6
+646,Iago,Bensdorp,11/09/1985,Curitiba,Pulseira,2018-07-08,121,250,30250,Agosto,7,3
+673,NatÃ¡lia,Huon,18/07/1992,Curitiba,Casaco,2018-07-13,135,250,33750,Julho,7,2
+641,Maryanna,Correa,04/01/1985,Porto Alegre,Pulseira,2018-07-06,103,75,7725,Junho,7,6
+651,Andrew,Carvalhal,26/07/1992,Curitiba,Casaco,2018-07-08,62,25,1550,Agosto,7,5
+652,Andrew,Carvalhal,08/08/1991,Rio de Janeiro,Vestido,2018-07-08,6,250,1500,Agosto,7,2
+653,Maryanna,Correa,29/12/1986,Rio de Janeiro,Vestido,2018-07-08,8,75,600,Agosto,7,1
+647,Emanuella,Fialho,01/01/1989,Curitiba,Sapato,2018-07-08,78,150,11700,Agosto,7,3
+645,Tayna,Coimbra,28/12/1990,Rio de Janeiro,Pulseira,2018-07-07,46,30,1380,Julho,7,1
+644,Jucelia,Bailly,30/12/1993,Rio de Janeiro,Bermuda,2018-07-07,48,300,14400,Julho,7,6
+643,Izabel,Milagre,26/04/1992,Porto Alegre,Casaco,2018-07-06,8,85,680,Junho,7,5
+642,Eduarda,Figueiredo,17/08/1988,Porto Alegre,Tenis,2018-07-06,51,150,7650,Junho,7,7
+716,Iago,Bensdorp,24/11/1988,Fortaleza,Camiseta,2018-07-21,79,30,2370,Julho,7,4
+715,Jucelia,Bailly,14/04/1990,Brasilia,Casaco,2018-07-21,127,75,9525,Julho,7,7
+740,Iago,Bensdorp,01/10/1986,Sao Paulo,Casaco,2018-07-26,9,55,495,Julho,7,5
+658,Andrew,Carvalhal,08/03/1990,Fortaleza,Camiseta,2018-07-10,51,190,9690,Outubro,7,7
+671,Izabel,Milagre,30/01/1985,Rio de Janeiro,Bermuda,2018-07-12,67,55,3685,Dezembro,7,2
+669,Paloma,Farias,22/02/1986,Curitiba,Camiseta,2018-07-12,29,230,6670,Dezembro,7,8
+681,Emanuella,Fialho,27/11/1993,Salvador,Vestido,2018-07-14,65,85,5525,Julho,7,7
+680,Breno,Amaral,31/08/1988,Sao Paulo,Vestido,2018-07-14,58,110,6380,Julho,7,6
+656,Tayna,Coimbra,10/04/1987,Rio de Janeiro,Saia,2018-07-09,45,55,2475,Setembro,7,6
+678,Maryanna,Correa,14/01/1990,Sao Paulo,Casaco,2018-07-14,61,150,9150,Julho,7,8
+677,Joyce,Ribas,28/11/1990,Porto Alegre,Saia,2018-07-14,47,230,10810,Julho,7,7
+676,Maryanna,Correa,13/01/1992,Porto Alegre,Camiseta,2018-07-14,117,110,12870,Julho,7,5
+675,Andrew,Carvalhal,13/02/1990,Curitiba,Bermuda,2018-07-14,58,300,17400,Julho,7,1
+712,Maryanna,Correa,30/04/1989,Fortaleza,Jaqueta,2018-07-20,101,30,3030,Julho,7,1
+714,Juliane,Felipi,11/04/1990,Curitiba,Tenis,2018-07-20,62,30,1860,Julho,7,4
+713,Joyce,Ribas,19/03/1993,Curitiba,Jaqueta,2018-07-20,12,250,3000,Julho,7,1
+711,Maryanna,Correa,05/09/1987,Brasilia,Sandalia,2018-07-20,60,250,15000,Julho,7,1
+739,Emanuella,Fialho,02/03/1989,Porto Alegre,Vestido,2018-07-26,19,75,1425,Julho,7,7
+738,Maryanna,Correa,22/07/1986,Rio de Janeiro,Camiseta,2018-07-26,77,25,1925,Julho,7,2
+662,Joyce,Ribas,15/01/1989,Brasilia,Camiseta,2018-07-11,53,190,10070,Novembro,7,3
+663,Jucelia,Bailly,08/08/1987,Sao Paulo,Sandalia,2018-07-11,100,75,7500,Novembro,7,5
+664,Jucelia,Bailly,27/04/1992,Brasilia,Camiseta,2018-07-11,52,75,3900,Novembro,7,7
+665,Jucelia,Bailly,06/10/1992,Porto Alegre,Casaco,2018-07-11,6,300,1800,Novembro,7,7
+666,Maryanna,Correa,30/09/1992,Porto Alegre,Casaco,2018-07-11,12,55,660,Novembro,7,4
+668,Emanuella,Fialho,05/07/1985,Rio de Janeiro,Casaco,2018-07-12,101,75,7575,Dezembro,7,7
+670,Andrew,Carvalhal,12/12/1991,Curitiba,Camiseta,2018-07-12,34,150,5100,Dezembro,7,4
+743,Emanuella,Fialho,19/09/1991,Sao Paulo,Camiseta,2018-07-28,68,110,7480,Julho,7,5
+745,Breno,Amaral,22/08/1988,Sao Paulo,Vestido,2018-07-28,8,110,880,Julho,7,8
+746,Elizeu,Barros,04/09/1985,Porto Alegre,Short,2018-07-29,97,75,7275,Julho,7,2
+634,Juliane,Felipi,26/04/1990,Fortaleza,Sandalia,2018-07-05,120,230,27600,Maio,7,1
+720,Iago,Bensdorp,14/04/1989,Curitiba,Sapato,2018-07-23,137,250,34250,Julho,7,1
+633,Jucelia,Bailly,13/12/1992,Sao Paulo,Saia,2018-07-05,125,250,31250,Maio,7,5
+744,Juliane,Felipi,13/12/1992,Sao Paulo,Casaco,2018-07-28,41,25,1025,Julho,7,6
+755,Iago,Bensdorp,21/02/1986,Curitiba,Saia,2018-07-31,44,110,4840,Julho,7,6
+757,Paloma,Farias,23/08/1991,Curitiba,Jaqueta,2018-07-31,12,110,1320,Julho,7,2
+636,Jucelia,Bailly,27/05/1993,Sao Paulo,Bermuda,2018-07-05,91,150,13650,Maio,7,6
+756,Joyce,Ribas,29/03/1990,Salvador,Jaqueta,2018-07-31,29,85,2465,Julho,7,6
+753,Tayna,Coimbra,28/07/1991,Sao Paulo,Short,2018-07-31,118,200,23600,Julho,7,4
+754,Joyce,Ribas,24/06/1986,Sao Paulo,Sandalia,2018-07-31,110,55,6050,Julho,7,6
+648,Jucelia,Bailly,19/07/1990,Curitiba,Sandalia,2018-07-08,42,190,7980,Agosto,7,8
+649,Iago,Bensdorp,30/09/1993,Salvador,Bermuda,2018-07-08,148,30,4440,Agosto,7,7
+741,Elizeu,Barros,04/05/1986,Curitiba,Tenis,2018-07-27,119,250,29750,Julho,7,7
+631,Eduarda,Figueiredo,25/01/1986,Salvador,Vestido,2018-07-04,61,55,3355,Abril,7,3
+752,Andrew,Carvalhal,19/05/1991,Brasilia,Camiseta,2018-07-31,110,250,27500,Julho,7,3
+637,Maryanna,Correa,16/05/1988,Brasilia,Vestido,2018-07-05,38,230,8740,Maio,7,5
+638,Izabel,Milagre,24/11/1986,Porto Alegre,Camiseta,2018-07-05,31,75,2325,Maio,7,1
+693,Maryanna,Correa,13/09/1988,Salvador,Saia,2018-07-17,51,230,11730,Julho,7,1
+691,Joyce,Ribas,01/06/1985,Rio de Janeiro,Camiseta,2018-07-16,40,30,1200,Julho,7,1
+690,Juliane,Felipi,02/08/1993,Sao Paulo,Sapato,2018-07-16,107,25,2675,Julho,7,7
+692,Paloma,Farias,11/07/1988,Salvador,Chinelo,2018-07-16,6,25,150,Julho,7,3
+688,Elizeu,Barros,15/12/1985,Curitiba,Vestido,2018-07-16,145,250,36250,Julho,7,1
+689,Maryanna,Correa,09/07/1991,Rio de Janeiro,Camiseta,2018-07-16,54,190,10260,Julho,7,2
+724,Jucelia,Bailly,13/08/1989,Salvador,Sapato,2018-07-23,40,30,1200,Julho,7,3
+725,Elizeu,Barros,24/07/1988,Brasilia,Vestido,2018-07-23,25,30,750,Julho,7,7
+721,Tayna,Coimbra,13/04/1993,Fortaleza,Casaco,2018-07-23,125,250,31250,Julho,7,3
+723,Joyce,Ribas,26/02/1988,Rio de Janeiro,Vestido,2018-07-23,45,30,1350,Julho,7,1
+722,Emanuella,Fialho,29/10/1986,Porto Alegre,Sapato,2018-07-23,124,110,13640,Julho,7,7
+696,Patricia,Camara,30/06/1991,Salvador,Camiseta,2018-07-17,66,25,1650,Julho,7,2
+695,Maryanna,Correa,14/01/1991,Salvador,Casaco,2018-07-17,137,25,3425,Julho,7,7
+694,Andrew,Carvalhal,03/06/1990,Porto Alegre,Sandalia,2018-07-17,32,300,9600,Julho,7,7
+698,Emanuella,Fialho,19/08/1993,Brasilia,Casaco,2018-07-17,1,85,85,Julho,7,6
+697,Emanuella,Fialho,22/07/1987,Brasilia,Vestido,2018-07-17,10,55,550,Julho,7,1
+630,Eduarda,Figueiredo,28/11/1986,Brasilia,Vestido,2018-07-04,20,200,4000,Abril,7,5
+629,Breno,Amaral,01/12/1991,Salvador,Bermuda,2018-07-04,141,190,26790,Abril,7,6
+650,Patricia,Camara,08/07/1985,Curitiba,Pulseira,2018-07-08,32,85,2720,Agosto,7,3
+628,Maryanna,Correa,08/02/1993,Porto Alegre,Sapato,2018-07-03,135,75,10125,Marco,7,6
+730,Iago,Bensdorp,26/10/1990,Sao Paulo,Vestido,2018-07-24,7,85,595,Julho,7,2
+728,Eduarda,Figueiredo,13/06/1986,Salvador,Bermuda,2018-07-24,96,30,2880,Julho,7,2
+726,Paloma,Farias,22/04/1992,Porto Alegre,Vestido,2018-07-24,148,230,34040,Julho,7,5
+639,Elizeu,Barros,29/01/1986,Rio de Janeiro,Vestido,2018-07-05,73,25,1825,Maio,7,6
+735,Tayna,Coimbra,22/02/1990,Curitiba,Vestido,2018-07-25,32,30,960,Julho,7,6
+734,Patricia,Camara,05/04/1988,Salvador,Pulseira,2018-07-25,79,25,1975,Julho,7,1
+635,NatÃ¡lia,Huon,13/08/1988,Porto Alegre,Pulseira,2018-07-05,65,250,16250,Maio,7,7
+719,Eduarda,Figueiredo,19/11/1991,Porto Alegre,Camiseta,2018-07-22,25,110,2750,Julho,7,3
+701,Eduarda,Figueiredo,13/10/1985,Sao Paulo,Tenis,2018-07-18,65,150,9750,Julho,7,2
+718,Izabel,Milagre,05/05/1993,Brasilia,Vestido,2018-07-22,66,75,4950,Julho,7,3
+623,NatÃ¡lia,Huon,04/11/1986,Curitiba,Vestido,2018-07-02,57,230,13110,Fevereiro,7,2
+622,Juliane,Felipi,07/03/1987,Porto Alegre,Casaco,2018-07-01,23,110,2530,Janeiro,7,5
+621,Andrew,Carvalhal,26/12/1987,Sao Paulo,Vestido,2018-07-01,84,230,19320,Janeiro,7,3
+684,Juliane,Felipi,29/10/1988,Brasilia,Sapato,2018-07-15,102,230,23460,Julho,7,3
+686,Tayna,Coimbra,20/04/1988,Curitiba,Jaqueta,2018-07-15,86,30,2580,Julho,7,6
+685,Eduarda,Figueiredo,26/11/1992,Salvador,Casaco,2018-07-15,20,150,3000,Julho,7,1
+687,NatÃ¡lia,Huon,07/06/1987,Salvador,Saia,2018-07-15,16,25,400,Julho,7,4
+742,Izabel,Milagre,20/10/1991,Brasilia,Saia,2018-07-28,81,250,20250,Julho,7,1
+717,Breno,Amaral,10/09/1989,Sao Paulo,Sapato,2018-07-22,141,190,26790,Julho,7,6
+632,Emanuella,Fialho,29/04/1987,Brasilia,Sapato,2018-07-04,8,250,2000,Abril,7,2
+700,Paloma,Farias,08/12/1990,Salvador,Casaco,2018-07-18,117,190,22230,Julho,7,4
+705,Breno,Amaral,27/10/1988,Porto Alegre,Casaco,2018-07-18,4,55,220,Julho,7,1
+627,Elizeu,Barros,24/11/1986,Sao Paulo,Sapato,2018-07-03,84,190,15960,Marco,7,7
+624,Eduarda,Figueiredo,29/12/1986,Sao Paulo,Camiseta,2018-07-02,127,85,10795,Fevereiro,7,2
+699,Juliane,Felipi,04/08/1993,Salvador,Vestido,2018-07-18,97,230,22310,Julho,7,4
+702,Joyce,Ribas,03/06/1987,Rio de Janeiro,Vestido,2018-07-18,78,110,8580,Julho,7,6
+626,Tayna,Coimbra,01/08/1988,Sao Paulo,Chinelo,2018-07-02,21,25,525,Fevereiro,7,2
+625,Breno,Amaral,31/07/1986,Curitiba,Sapato,2018-07-02,77,75,5775,Fevereiro,7,6
+703,Eduarda,Figueiredo,27/04/1990,Sao Paulo,Casaco,2018-07-18,134,55,7370,Julho,7,5
+704,Tayna,Coimbra,29/12/1993,Fortaleza,Sapato,2018-07-18,3,230,690,Julho,7,1
+640,Joyce,Ribas,02/02/1991,Sao Paulo,Vestido,2018-07-06,71,200,14200,Junho,7,1
+727,Jucelia,Bailly,14/09/1991,Fortaleza,Saia,2018-07-24,21,150,3150,Julho,7,1
+761,Breno,Amaral,29/04/1985,Porto Alegre,Saia,2018-08-06,114,75,8550,Junho,8,5
+832,Joyce,Ribas,30/09/1991,Curitiba,Casaco,2018-08-27,10,25,250,Agosto,8,8
+808,Tayna,Coimbra,31/07/1991,Sao Paulo,Saia,2018-08-23,40,25,1000,Agosto,8,7
+807,Jucelia,Bailly,13/12/1986,Curitiba,Sapato,2018-08-23,21,75,1575,Agosto,8,3
+831,Joyce,Ribas,02/04/1985,Rio de Janeiro,Casaco,2018-08-27,117,55,6435,Agosto,8,3
+830,Elizeu,Barros,20/01/1987,Fortaleza,Vestido,2018-08-27,142,200,28400,Agosto,8,7
+801,Iago,Bensdorp,07/01/1987,Salvador,Sandalia,2018-08-21,96,150,14400,Agosto,8,8
+829,Breno,Amaral,22/03/1992,Porto Alegre,Camiseta,2018-08-27,129,300,38700,Agosto,8,3
+809,Tayna,Coimbra,04/03/1990,Fortaleza,Vestido,2018-08-23,21,30,630,Agosto,8,1
+800,Elizeu,Barros,26/05/1987,Sao Paulo,Vestido,2018-08-21,83,230,19090,Agosto,8,4
+762,Joyce,Ribas,10/02/1986,Sao Paulo,Vestido,2018-08-06,10,55,550,Junho,8,1
+802,Eduarda,Figueiredo,05/12/1990,Curitiba,Chinelo,2018-08-21,148,25,3700,Agosto,8,5
+764,Jucelia,Bailly,17/09/1993,Salvador,Short,2018-08-11,29,30,870,Novembro,8,4
+806,Eduarda,Figueiredo,24/05/1985,Curitiba,Vestido,2018-08-22,24,300,7200,Agosto,8,1
+805,Izabel,Milagre,05/09/1988,Sao Paulo,Vestido,2018-08-22,73,150,10950,Agosto,8,6
+810,Tayna,Coimbra,25/04/1986,Porto Alegre,Vestido,2018-08-24,93,300,27900,Agosto,8,8
+849,Andrew,Carvalhal,27/11/1988,Porto Alegre,Saia,2018-08-30,75,200,15000,Agosto,8,7
+842,Elizeu,Barros,16/05/1992,Curitiba,Jaqueta,2018-08-29,150,300,45000,Agosto,8,4
+847,Emanuella,Fialho,04/07/1991,Fortaleza,Saia,2018-08-29,11,230,2530,Agosto,8,6
+846,Paloma,Farias,23/09/1988,Porto Alegre,Camiseta,2018-08-29,28,110,3080,Agosto,8,1
+845,Paloma,Farias,12/01/1989,Porto Alegre,Pulseira,2018-08-29,92,75,6900,Agosto,8,5
+844,Patricia,Camara,18/06/1989,Porto Alegre,Vestido,2018-08-29,123,75,9225,Agosto,8,8
+763,Eduarda,Figueiredo,11/04/1987,Fortaleza,Sapato,2018-08-11,17,110,1870,Novembro,8,1
+843,Iago,Bensdorp,03/02/1992,Porto Alegre,Camiseta,2018-08-29,122,300,36600,Agosto,8,1
+854,Paloma,Farias,29/05/1987,Porto Alegre,Vestido,2018-08-30,16,85,1360,Agosto,8,7
+811,Izabel,Milagre,25/01/1985,Fortaleza,Vestido,2018-08-24,78,190,14820,Agosto,8,3
+812,Joyce,Ribas,04/06/1987,Salvador,Short,2018-08-24,77,190,14630,Agosto,8,4
+813,Patricia,Camara,25/03/1990,Brasilia,Camiseta,2018-08-24,121,30,3630,Agosto,8,5
+814,Tayna,Coimbra,12/03/1992,Brasilia,Short,2018-08-24,20,110,2200,Agosto,8,2
+815,Eduarda,Figueiredo,03/04/1990,Brasilia,Vestido,2018-08-24,41,30,1230,Agosto,8,1
+766,Joyce,Ribas,01/05/1988,Curitiba,Sapato,2018-08-12,93,150,13950,Dezembro,8,4
+765,Paloma,Farias,30/06/1986,Rio de Janeiro,Jaqueta,2018-08-12,83,200,16600,Dezembro,8,4
+767,Andrew,Carvalhal,28/08/1991,Salvador,Sapato,2018-08-12,9,300,2700,Dezembro,8,7
+848,Juliane,Felipi,16/02/1987,Brasilia,Pulseira,2018-08-29,46,25,1150,Agosto,8,5
+803,Andrew,Carvalhal,23/01/1988,Sao Paulo,Sapato,2018-08-21,66,25,1650,Agosto,8,4
+796,Elizeu,Barros,29/06/1992,Salvador,Vestido,2018-08-20,72,230,16560,Agosto,8,1
+799,NatÃ¡lia,Huon,06/11/1989,Sao Paulo,Sandalia,2018-08-21,85,300,25500,Agosto,8,5
+777,Izabel,Milagre,31/03/1992,Porto Alegre,Sapato,2018-08-15,133,230,30590,Agosto,8,1
+786,Eduarda,Figueiredo,22/11/1992,Fortaleza,Vestido,2018-08-18,87,55,4785,Agosto,8,6
+787,Patricia,Camara,23/07/1985,Porto Alegre,Saia,2018-08-18,104,30,3120,Agosto,8,1
+788,Jucelia,Bailly,30/04/1992,Porto Alegre,Sapato,2018-08-18,28,30,840,Agosto,8,6
+817,Joyce,Ribas,15/07/1989,Brasilia,Sandalia,2018-08-25,120,190,22800,Agosto,8,7
+816,Joyce,Ribas,22/11/1991,Brasilia,Vestido,2018-08-25,121,300,36300,Agosto,8,6
+834,Emanuella,Fialho,16/05/1990,Porto Alegre,Vestido,2018-08-28,111,110,12210,Agosto,8,6
+835,Jucelia,Bailly,13/06/1987,Rio de Janeiro,Camiseta,2018-08-28,128,85,10880,Agosto,8,3
+836,Patricia,Camara,01/02/1993,Fortaleza,Camiseta,2018-08-28,144,75,10800,Agosto,8,6
+837,Jucelia,Bailly,22/12/1991,Curitiba,Vestido,2018-08-28,141,55,7755,Agosto,8,6
+838,Andrew,Carvalhal,05/01/1993,Salvador,Tenis,2018-08-28,114,55,6270,Agosto,8,7
+839,Emanuella,Fialho,19/10/1993,Fortaleza,Vestido,2018-08-28,52,85,4420,Agosto,8,1
+776,Juliane,Felipi,07/09/1990,Curitiba,Sapato,2018-08-15,150,250,37500,Agosto,8,7
+855,Eduarda,Figueiredo,23/09/1992,Rio de Janeiro,Bermuda,2018-08-31,81,300,24300,Agosto,8,2
+779,Iago,Bensdorp,26/06/1991,Porto Alegre,Camiseta,2018-08-15,64,85,5440,Agosto,8,7
+818,Eduarda,Figueiredo,04/02/1992,Fortaleza,Bermuda,2018-08-25,94,200,18800,Agosto,8,8
+804,Breno,Amaral,17/02/1988,Porto Alegre,Sapato,2018-08-21,26,55,1430,Agosto,8,6
+780,NatÃ¡lia,Huon,20/12/1990,Sao Paulo,Casaco,2018-08-16,101,200,20200,Agosto,8,7
+819,Paloma,Farias,05/01/1993,Salvador,Sapato,2018-08-25,75,230,17250,Agosto,8,5
+840,Breno,Amaral,07/05/1985,Curitiba,Casaco,2018-08-28,84,30,2520,Agosto,8,6
+841,Izabel,Milagre,22/06/1991,Sao Paulo,Chinelo,2018-08-28,26,55,1430,Agosto,8,8
+833,Paloma,Farias,05/09/1988,Porto Alegre,Vestido,2018-08-28,66,230,15180,Agosto,8,3
+785,Joyce,Ribas,02/07/1989,Salvador,Camiseta,2018-08-17,18,25,450,Agosto,8,3
+783,Joyce,Ribas,13/06/1988,Curitiba,Casaco,2018-08-17,47,190,8930,Agosto,8,7
+784,Andrew,Carvalhal,11/01/1993,Salvador,Saia,2018-08-17,11,200,2200,Agosto,8,8
+856,Iago,Bensdorp,14/07/1993,Fortaleza,Saia,2018-08-31,71,250,17750,Agosto,8,7
+774,Joyce,Ribas,20/04/1989,Curitiba,Vestido,2018-08-14,130,85,11050,Agosto,8,5
+859,Juliane,Felipi,26/04/1993,Rio de Janeiro,Vestido,2018-08-31,32,25,800,Agosto,8,4
+782,Andrew,Carvalhal,06/01/1987,Porto Alegre,Vestido,2018-08-16,46,110,5060,Agosto,8,8
+781,Patricia,Camara,16/11/1987,Salvador,Saia,2018-08-16,23,300,6900,Agosto,8,6
+821,Andrew,Carvalhal,26/09/1991,Brasilia,Camiseta,2018-08-25,99,85,8415,Agosto,8,7
+822,Paloma,Farias,25/09/1989,Sao Paulo,Saia,2018-08-25,73,85,6205,Agosto,8,6
+823,Elizeu,Barros,13/07/1993,Salvador,Casaco,2018-08-25,24,200,4800,Agosto,8,6
+824,Andrew,Carvalhal,12/12/1990,Curitiba,Casaco,2018-08-25,18,30,540,Agosto,8,8
+820,Maryanna,Correa,18/08/1992,Rio de Janeiro,Sapato,2018-08-25,128,75,9600,Agosto,8,7
+858,Eduarda,Figueiredo,24/09/1989,Curitiba,Chinelo,2018-08-31,104,55,5720,Agosto,8,3
+773,Joyce,Ribas,03/11/1988,Sao Paulo,Chinelo,2018-08-14,109,150,16350,Agosto,8,6
+778,Elizeu,Barros,21/11/1987,Sao Paulo,Sapato,2018-08-15,57,150,8550,Agosto,8,4
+791,Patricia,Camara,20/03/1985,Curitiba,Vestido,2018-08-19,60,200,12000,Agosto,8,7
+760,Paloma,Farias,29/09/1986,Salvador,Sapato,2018-08-01,71,110,7810,Janeiro,8,4
+775,Iago,Bensdorp,16/09/1991,Fortaleza,Sandalia,2018-08-14,73,110,8030,Agosto,8,1
+828,Eduarda,Figueiredo,07/11/1989,Brasilia,Short,2018-08-26,5,190,950,Agosto,8,8
+827,Patricia,Camara,15/04/1985,Curitiba,Chinelo,2018-08-26,80,25,2000,Agosto,8,4
+772,Joyce,Ribas,27/02/1986,Sao Paulo,Vestido,2018-08-13,21,75,1575,Agosto,8,8
+771,Jucelia,Bailly,19/01/1985,Sao Paulo,Bermuda,2018-08-13,35,55,1925,Agosto,8,5
+759,Patricia,Camara,06/06/1986,Sao Paulo,Vestido,2018-08-01,61,230,14030,Janeiro,8,8
+770,Joyce,Ribas,17/12/1986,Brasilia,Chinelo,2018-08-13,26,75,1950,Agosto,8,2
+768,Paloma,Farias,26/05/1991,Curitiba,Sapato,2018-08-13,95,300,28500,Agosto,8,4
+826,Emanuella,Fialho,17/10/1985,Porto Alegre,Sapato,2018-08-26,27,85,2295,Agosto,8,6
+850,Elizeu,Barros,27/06/1985,Curitiba,Vestido,2018-08-30,50,250,12500,Agosto,8,2
+851,Joyce,Ribas,02/11/1992,Fortaleza,Sapato,2018-08-30,89,110,9790,Agosto,8,2
+852,Jucelia,Bailly,20/06/1987,Fortaleza,Sapato,2018-08-30,83,55,4565,Agosto,8,3
+853,Tayna,Coimbra,30/03/1993,Sao Paulo,Camiseta,2018-08-30,38,55,2090,Agosto,8,2
+769,Elizeu,Barros,05/04/1993,Porto Alegre,Casaco,2018-08-13,100,110,11000,Agosto,8,2
+758,Juliane,Felipi,25/08/1985,Brasilia,Saia,2018-08-01,101,300,30300,Janeiro,8,2
+825,Jucelia,Bailly,16/12/1992,Rio de Janeiro,Short,2018-08-26,131,300,39300,Agosto,8,4
+857,Izabel,Milagre,24/07/1985,Porto Alegre,Sapato,2018-08-31,137,110,15070,Agosto,8,3
+792,Joyce,Ribas,02/04/1985,Fortaleza,Saia,2018-08-19,93,75,6975,Agosto,8,3
+795,Elizeu,Barros,03/12/1988,Curitiba,Sapato,2018-08-19,19,85,1615,Agosto,8,8
+797,Paloma,Farias,07/10/1991,Rio de Janeiro,Chinelo,2018-08-20,33,230,7590,Agosto,8,4
+798,Joyce,Ribas,09/03/1992,Sao Paulo,Sandalia,2018-08-20,44,55,2420,Agosto,8,7
+793,Andrew,Carvalhal,24/11/1986,Rio de Janeiro,Camiseta,2018-08-19,73,55,4015,Agosto,8,7
+789,Elizeu,Barros,04/07/1987,Salvador,Camiseta,2018-08-19,144,230,33120,Agosto,8,5
+790,Iago,Bensdorp,03/10/1992,Brasilia,Sandalia,2018-08-19,101,200,20200,Agosto,8,4
+794,Jucelia,Bailly,19/04/1988,Brasilia,Sapato,2018-08-19,38,75,2850,Agosto,8,3
+975,Paloma,Farias,20/12/1988,Brasilia,Vestido,2018-09-25,83,75,6225,Setembro,9,2
+971,Tayna,Coimbra,21/01/1993,Sao Paulo,Sapato,2018-09-25,145,150,21750,Setembro,9,5
+900,Elizeu,Barros,18/12/1991,Porto Alegre,Casaco,2018-09-10,41,200,8200,Outubro,9,1
+877,Juliane,Felipi,20/09/1986,Porto Alegre,Jaqueta,2018-09-04,21,55,1155,Abril,9,2
+876,Emanuella,Fialho,11/05/1990,Fortaleza,Casaco,2018-09-04,53,200,10600,Abril,9,8
+907,NatÃ¡lia,Huon,27/05/1993,Brasilia,Saia,2018-09-11,9,30,270,Novembro,9,2
+912,Andrew,Carvalhal,13/02/1992,Curitiba,Camiseta,2018-09-12,48,25,1200,Dezembro,9,8
+901,Eduarda,Figueiredo,21/07/1986,Fortaleza,Jaqueta,2018-09-10,139,30,4170,Outubro,9,6
+902,Maryanna,Correa,10/07/1993,Fortaleza,Casaco,2018-09-10,66,25,1650,Outubro,9,2
+911,Jucelia,Bailly,22/09/1986,Porto Alegre,Pulseira,2018-09-12,92,25,2300,Dezembro,9,7
+870,Elizeu,Barros,16/05/1990,Brasilia,Sapato,2018-09-03,131,25,3275,Marco,9,5
+868,Paloma,Farias,09/10/1985,Brasilia,Camiseta,2018-09-03,52,110,5720,Marco,9,3
+869,Maryanna,Correa,29/12/1985,Rio de Janeiro,Vestido,2018-09-03,65,55,3575,Marco,9,8
+904,NatÃ¡lia,Huon,11/04/1989,Sao Paulo,Casaco,2018-09-11,100,300,30000,Novembro,9,3
+905,Tayna,Coimbra,23/07/1993,Salvador,Tenis,2018-09-11,93,30,2790,Novembro,9,7
+906,Juliane,Felipi,08/08/1991,Fortaleza,Saia,2018-09-11,57,30,1710,Novembro,9,7
+903,Tayna,Coimbra,22/02/1988,Porto Alegre,Saia,2018-09-10,2,110,220,Outubro,9,8
+875,Jucelia,Bailly,14/07/1988,Rio de Janeiro,Vestido,2018-09-04,94,300,28200,Abril,9,2
+909,Maryanna,Correa,24/10/1993,Curitiba,Sandalia,2018-09-12,56,190,10640,Dezembro,9,1
+892,Iago,Bensdorp,04/10/1985,Brasilia,Chinelo,2018-09-08,12,250,3000,Agosto,9,2
+973,Maryanna,Correa,23/08/1990,Rio de Janeiro,Pulseira,2018-09-25,76,190,14440,Setembro,9,8
+890,Breno,Amaral,19/04/1991,Porto Alegre,Vestido,2018-09-08,58,150,8700,Agosto,9,5
+970,Patricia,Camara,18/01/1990,Brasilia,Sapato,2018-09-24,39,110,4290,Setembro,9,2
+969,Jucelia,Bailly,02/11/1992,Sao Paulo,Vestido,2018-09-24,59,150,8850,Setembro,9,3
+891,Paloma,Farias,22/11/1986,Curitiba,Vestido,2018-09-08,121,25,3025,Agosto,9,2
+893,Juliane,Felipi,31/07/1991,Fortaleza,Vestido,2018-09-08,5,250,1250,Agosto,9,2
+871,Breno,Amaral,02/06/1992,Porto Alegre,Bermuda,2018-09-03,107,30,3210,Marco,9,3
+894,Emanuella,Fialho,24/08/1993,Sao Paulo,Camiseta,2018-09-09,111,110,12210,Setembro,9,6
+895,Joyce,Ribas,15/09/1987,Fortaleza,Chinelo,2018-09-09,39,300,11700,Setembro,9,5
+896,Maryanna,Correa,24/07/1988,Curitiba,Saia,2018-09-09,16,200,3200,Setembro,9,8
+897,Tayna,Coimbra,17/12/1988,Rio de Janeiro,Vestido,2018-09-09,38,55,2090,Setembro,9,6
+898,Paloma,Farias,25/06/1992,Curitiba,Chinelo,2018-09-10,107,110,11770,Outubro,9,7
+899,Joyce,Ribas,29/10/1990,Porto Alegre,Vestido,2018-09-10,62,150,9300,Outubro,9,1
+889,Andrew,Carvalhal,04/03/1988,Brasilia,Casaco,2018-09-07,101,25,2525,Julho,9,2
+888,Breno,Amaral,17/07/1986,Curitiba,Saia,2018-09-07,44,85,3740,Julho,9,7
+976,Joyce,Ribas,18/05/1990,Fortaleza,Sapato,2018-09-25,133,25,3325,Setembro,9,3
+977,Maryanna,Correa,24/04/1985,Curitiba,Camiseta,2018-09-25,11,85,935,Setembro,9,2
+972,Paloma,Farias,26/10/1985,Salvador,Sapato,2018-09-25,113,150,16950,Setembro,9,5
+887,Izabel,Milagre,10/01/1988,Sao Paulo,Chinelo,2018-09-07,62,75,4650,Julho,9,3
+886,Maryanna,Correa,20/06/1992,Sao Paulo,Casaco,2018-09-07,54,200,10800,Julho,9,3
+885,Joyce,Ribas,05/01/1986,Rio de Janeiro,Chinelo,2018-09-07,139,300,41700,Julho,9,3
+882,Joyce,Ribas,03/12/1986,Brasilia,Camiseta,2018-09-06,51,230,11730,Junho,9,3
+881,Eduarda,Figueiredo,02/01/1988,Curitiba,Pulseira,2018-09-06,77,190,14630,Junho,9,1
+880,Jucelia,Bailly,22/11/1992,Salvador,Saia,2018-09-06,110,150,16500,Junho,9,3
+883,Jucelia,Bailly,25/12/1985,Fortaleza,Sapato,2018-09-06,84,55,4620,Junho,9,5
+884,Paloma,Farias,30/08/1992,Rio de Janeiro,Casaco,2018-09-06,17,200,3400,Junho,9,5
+878,Andrew,Carvalhal,20/04/1991,Sao Paulo,Casaco,2018-09-05,69,300,20700,Maio,9,7
+879,Joyce,Ribas,29/05/1988,Curitiba,Jaqueta,2018-09-05,112,150,16800,Maio,9,3
+974,Elizeu,Barros,06/02/1985,Curitiba,Casaco,2018-09-25,132,75,9900,Setembro,9,3
+873,Paloma,Farias,03/06/1987,Sao Paulo,Saia,2018-09-03,86,25,2150,Marco,9,4
+951,Jucelia,Bailly,09/09/1985,Rio de Janeiro,Chinelo,2018-09-21,80,200,16000,Setembro,9,4
+874,Joyce,Ribas,30/09/1988,Brasilia,Vestido,2018-09-03,9,25,225,Marco,9,3
+919,Breno,Amaral,18/04/1991,Curitiba,Casaco,2018-09-14,86,150,12900,Setembro,9,5
+918,Tayna,Coimbra,30/04/1989,Curitiba,Chinelo,2018-09-14,147,190,27930,Setembro,9,7
+944,Patricia,Camara,26/12/1993,Salvador,Pulseira,2018-09-19,22,110,2420,Setembro,9,8
+945,Maryanna,Correa,03/11/1986,Fortaleza,Vestido,2018-09-19,4,110,440,Setembro,9,1
+942,Jucelia,Bailly,14/05/1985,Brasilia,Sapato,2018-09-19,61,85,5185,Setembro,9,8
+941,Izabel,Milagre,01/07/1993,Brasilia,Vestido,2018-09-19,95,85,8075,Setembro,9,2
+940,Patricia,Camara,02/03/1993,Sao Paulo,Camiseta,2018-09-19,96,110,10560,Setembro,9,8
+943,Paloma,Farias,03/06/1985,Porto Alegre,Jaqueta,2018-09-19,54,55,2970,Setembro,9,7
+939,Paloma,Farias,27/05/1986,Brasilia,Sapato,2018-09-19,135,230,31050,Setembro,9,2
+946,Elizeu,Barros,08/08/1985,Salvador,Casaco,2018-09-20,111,200,22200,Setembro,9,5
+949,Tayna,Coimbra,09/09/1985,Salvador,Vestido,2018-09-20,16,55,880,Setembro,9,8
+947,Andrew,Carvalhal,27/12/1985,Rio de Janeiro,Casaco,2018-09-20,94,150,14100,Setembro,9,1
+948,Elizeu,Barros,24/01/1993,Porto Alegre,Sapato,2018-09-20,31,110,3410,Setembro,9,3
+914,Tayna,Coimbra,07/08/1992,Fortaleza,Vestido,2018-09-13,131,200,26200,Setembro,9,8
+915,Maryanna,Correa,24/03/1985,Brasilia,Casaco,2018-09-13,46,250,11500,Setembro,9,8
+872,Tayna,Coimbra,22/02/1993,Brasilia,Casaco,2018-09-03,82,30,2460,Marco,9,5
+917,Emanuella,Fialho,26/08/1990,Fortaleza,Sapato,2018-09-13,10,25,250,Setembro,9,4
+913,Paloma,Farias,08/10/1992,Sao Paulo,Sapato,2018-09-13,127,230,29210,Setembro,9,5
+996,Joyce,Ribas,25/12/1985,Curitiba,Short,2018-09-30,34,110,3740,Setembro,9,7
+935,Andrew,Carvalhal,25/08/1992,Fortaleza,Sandalia,2018-09-18,73,75,5475,Setembro,9,2
+992,Paloma,Farias,19/03/1992,Salvador,Sapato,2018-09-30,132,230,30360,Setembro,9,7
+936,Maryanna,Correa,04/08/1988,Rio de Janeiro,Sandalia,2018-09-18,89,55,4895,Setembro,9,1
+938,NatÃ¡lia,Huon,19/04/1989,Curitiba,Vestido,2018-09-18,4,230,920,Setembro,9,3
+986,Izabel,Milagre,09/06/1985,Rio de Janeiro,Pulseira,2018-09-28,7,85,595,Setembro,9,1
+985,Patricia,Camara,03/03/1988,Rio de Janeiro,Casaco,2018-09-28,37,30,1110,Setembro,9,2
+984,Maryanna,Correa,23/12/1985,Brasilia,Vestido,2018-09-28,68,190,12920,Setembro,9,3
+930,Eduarda,Figueiredo,31/05/1992,Fortaleza,Tenis,2018-09-16,12,55,660,Setembro,9,5
+931,Juliane,Felipi,05/07/1993,Curitiba,Bermuda,2018-09-16,18,25,450,Setembro,9,6
+932,Juliane,Felipi,11/05/1990,Sao Paulo,Vestido,2018-09-17,69,300,20700,Setembro,9,4
+934,Eduarda,Figueiredo,07/09/1990,Brasilia,Camiseta,2018-09-17,23,55,1265,Setembro,9,8
+933,Elizeu,Barros,20/01/1990,Sao Paulo,Short,2018-09-17,137,25,3425,Setembro,9,5
+983,Paloma,Farias,02/11/1988,Rio de Janeiro,Sandalia,2018-09-28,99,300,29700,Setembro,9,3
+925,Maryanna,Correa,24/10/1985,Rio de Janeiro,Vestido,2018-09-15,110,75,8250,Setembro,9,1
+926,Breno,Amaral,09/06/1993,Curitiba,Vestido,2018-09-15,78,55,4290,Setembro,9,1
+927,Patricia,Camara,12/02/1992,Porto Alegre,Vestido,2018-09-15,104,25,2600,Setembro,9,3
+924,Eduarda,Figueiredo,13/03/1989,Salvador,Chinelo,2018-09-15,115,200,23000,Setembro,9,8
+923,NatÃ¡lia,Huon,25/04/1992,Salvador,Sandalia,2018-09-15,104,230,23920,Setembro,9,7
+921,Iago,Bensdorp,06/04/1985,Curitiba,Pulseira,2018-09-15,136,230,31280,Setembro,9,8
+928,Breno,Amaral,19/12/1991,Curitiba,Vestido,2018-09-15,44,55,2420,Setembro,9,5
+929,Tayna,Coimbra,24/09/1992,Fortaleza,Sandalia,2018-09-15,10,190,1900,Setembro,9,2
+920,Iago,Bensdorp,01/12/1990,Rio de Janeiro,Vestido,2018-09-15,149,300,44700,Setembro,9,2
+922,Joyce,Ribas,28/02/1990,Porto Alegre,Casaco,2018-09-15,135,190,25650,Setembro,9,8
+937,Izabel,Milagre,30/05/1986,Salvador,Vestido,2018-09-18,73,30,2190,Setembro,9,5
+991,Andrew,Carvalhal,23/07/1985,Salvador,Tenis,2018-09-30,141,300,42300,Setembro,9,1
+916,Andrew,Carvalhal,09/03/1986,Rio de Janeiro,Vestido,2018-09-13,50,25,1250,Setembro,9,6
+994,Maryanna,Correa,20/01/1987,Porto Alegre,Chinelo,2018-09-30,43,230,9890,Setembro,9,1
+960,Juliane,Felipi,03/02/1993,Brasilia,Sapato,2018-09-22,92,250,23000,Setembro,9,1
+961,Eduarda,Figueiredo,08/08/1991,Salvador,Camiseta,2018-09-22,79,110,8690,Setembro,9,2
+860,Paloma,Farias,18/03/1987,Porto Alegre,Bermuda,2018-09-01,124,300,37200,Janeiro,9,3
+995,Andrew,Carvalhal,04/01/1986,Fortaleza,Sapato,2018-09-30,64,150,9600,Setembro,9,7
+978,Elizeu,Barros,19/05/1990,Curitiba,Short,2018-09-27,146,85,12410,Setembro,9,3
+979,Iago,Bensdorp,21/03/1993,Fortaleza,Vestido,2018-09-27,63,150,9450,Setembro,9,3
+980,Andrew,Carvalhal,26/02/1985,Rio de Janeiro,Sapato,2018-09-27,92,55,5060,Setembro,9,3
+981,Eduarda,Figueiredo,01/12/1987,Porto Alegre,Sandalia,2018-09-27,113,30,3390,Setembro,9,3
+987,Joyce,Ribas,13/06/1989,Salvador,Vestido,2018-09-29,126,200,25200,Setembro,9,5
+988,Izabel,Milagre,26/05/1991,Porto Alegre,Vestido,2018-09-29,90,200,18000,Setembro,9,2
+989,Emanuella,Fialho,28/12/1991,Curitiba,Camiseta,2018-09-29,123,30,3690,Setembro,9,5
+990,Patricia,Camara,13/03/1985,Brasilia,Sapato,2018-09-29,81,30,2430,Setembro,9,4
+982,Patricia,Camara,09/08/1990,Curitiba,Vestido,2018-09-27,27,30,810,Setembro,9,8
+967,Jucelia,Bailly,08/06/1987,Fortaleza,Casaco,2018-09-23,31,190,5890,Setembro,9,2
+968,Breno,Amaral,22/08/1988,Rio de Janeiro,Vestido,2018-09-23,1,85,85,Setembro,9,5
+965,Izabel,Milagre,18/03/1993,Rio de Janeiro,Casaco,2018-09-23,70,110,7700,Setembro,9,1
+966,Paloma,Farias,01/05/1989,Curitiba,Saia,2018-09-23,109,55,5995,Setembro,9,2
+862,NatÃ¡lia,Huon,20/07/1985,Sao Paulo,Camiseta,2018-09-01,95,200,19000,Janeiro,9,7
+867,Emanuella,Fialho,16/06/1988,Fortaleza,Chinelo,2018-09-02,48,150,7200,Fevereiro,9,3
+959,NatÃ¡lia,Huon,23/11/1986,Porto Alegre,Casaco,2018-09-22,128,300,38400,Setembro,9,2
+963,Emanuella,Fialho,21/08/1985,Curitiba,Sapato,2018-09-22,27,200,5400,Setembro,9,3
+910,Elizeu,Barros,30/10/1991,Salvador,Camiseta,2018-09-12,60,110,6600,Dezembro,9,4
+962,Patricia,Camara,18/01/1986,Fortaleza,Sapato,2018-09-22,31,230,7130,Setembro,9,1
+993,Elizeu,Barros,21/02/1991,Sao Paulo,Vestido,2018-09-30,53,250,13250,Setembro,9,7
+997,Andrew,Carvalhal,05/01/1989,Curitiba,Bermuda,2018-09-30,66,55,3630,Setembro,9,1
+964,Eduarda,Figueiredo,07/08/1989,Fortaleza,Camiseta,2018-09-22,2,230,460,Setembro,9,2
+953,Maryanna,Correa,06/07/1986,Fortaleza,Camiseta,2018-09-21,62,150,9300,Setembro,9,7
+908,Jucelia,Bailly,18/06/1990,Curitiba,Vestido,2018-09-12,104,190,19760,Dezembro,9,8
+954,Eduarda,Figueiredo,21/06/1985,Salvador,Sapato,2018-09-21,106,55,5830,Setembro,9,4
+955,Iago,Bensdorp,13/04/1987,Brasilia,Saia,2018-09-21,92,55,5060,Setembro,9,2
+956,Juliane,Felipi,11/12/1987,Brasilia,Sapato,2018-09-21,11,190,2090,Setembro,9,5
+957,Paloma,Farias,25/06/1988,Porto Alegre,Sapato,2018-09-21,6,150,900,Setembro,9,3
+958,Andrew,Carvalhal,10/04/1987,Rio de Janeiro,Saia,2018-09-21,11,25,275,Setembro,9,1
+952,Jucelia,Bailly,09/09/1992,Rio de Janeiro,Camiseta,2018-09-21,136,110,14960,Setembro,9,2
+866,Tayna,Coimbra,07/07/1985,Sao Paulo,Sandalia,2018-09-01,3,30,90,Janeiro,9,7
+950,Tayna,Coimbra,10/08/1987,Fortaleza,Saia,2018-09-21,114,200,22800,Setembro,9,1
+865,Eduarda,Figueiredo,07/10/1990,Sao Paulo,Sandalia,2018-09-01,12,230,2760,Janeiro,9,1
+863,NatÃ¡lia,Huon,20/03/1985,Curitiba,Sandalia,2018-09-01,118,110,12980,Janeiro,9,6
+861,Jucelia,Bailly,24/04/1988,Fortaleza,Sapato,2018-09-01,143,190,27170,Janeiro,9,5
+864,Emanuella,Fialho,03/01/1985,Sao Paulo,Vestido,2018-09-01,54,190,10260,Janeiro,9,4
+1004,Paloma,Farias,29/10/1992,Brasilia,Sapato,2018-10-31,53,190,10070,Outubro,10,6
+1001,Elizeu,Barros,11/08/1988,Salvador,Vestido,2018-10-01,24,230,5520,Janeiro,10,3
+1000,Emanuella,Fialho,04/03/1986,Rio de Janeiro,Saia,2018-10-01,23,300,6900,Janeiro,10,4
+999,Andrew,Carvalhal,03/12/1991,Rio de Janeiro,Sapato,2018-10-01,148,75,11100,Janeiro,10,3
+1006,Patricia,Camara,03/12/1990,Rio de Janeiro,Sapato,2018-10-31,105,30,3150,Outubro,10,4
+1005,Maryanna,Correa,05/02/1986,Salvador,Tenis,2018-10-31,59,55,3245,Outubro,10,4
+998,Elizeu,Barros,06/04/1990,Brasilia,Vestido,2018-10-01,91,190,17290,Janeiro,10,5
+1008,Elizeu,Barros,13/04/1990,Porto Alegre,Saia,2018-10-31,4,30,120,Outubro,10,7
+1002,Patricia,Camara,22/04/1989,Sao Paulo,Casaco,2018-10-30,95,85,8075,Outubro,10,2
+1003,Jucelia,Bailly,12/01/1989,Porto Alegre,Casaco,2018-10-31,130,300,39000,Outubro,10,7
+1007,Tayna,Coimbra,28/08/1990,Fortaleza,Short,2018-10-31,50,30,1500,Outubro,10,6
+1130,Breno,Amaral,27/01/1987,Curitiba,Vestido,2018-11-27,30,85,2550,Novembro,11,1
+1126,Elizeu,Barros,07/07/1991,Fortaleza,Short,2018-11-26,85,200,17000,Novembro,11,7
+1135,Breno,Amaral,10/05/1988,Curitiba,Vestido,2018-11-28,10,200,2000,Novembro,11,4
+1134,Breno,Amaral,06/08/1990,Brasilia,Bermuda,2018-11-28,43,75,3225,Novembro,11,5
+1125,Paloma,Farias,26/08/1990,Fortaleza,Casaco,2018-11-26,94,190,17860,Novembro,11,3
+1127,Eduarda,Figueiredo,14/07/1992,Fortaleza,Sapato,2018-11-26,28,25,700,Novembro,11,2
+1133,Joyce,Ribas,20/06/1991,Salvador,Casaco,2018-11-28,62,55,3410,Novembro,11,3
+1129,Maryanna,Correa,03/01/1991,Porto Alegre,Casaco,2018-11-27,89,55,4895,Novembro,11,3
+1136,Juliane,Felipi,31/05/1989,Fortaleza,Saia,2018-11-28,2,110,220,Novembro,11,1
+1128,Breno,Amaral,26/12/1993,Salvador,Tenis,2018-11-27,52,110,5720,Novembro,11,2
+1131,Andrew,Carvalhal,16/11/1991,Sao Paulo,Short,2018-11-28,74,250,18500,Novembro,11,4
+1009,Patricia,Camara,08/08/1988,Sao Paulo,Saia,2018-11-01,60,250,15000,Janeiro,11,3
+1063,Maryanna,Correa,11/05/1990,Curitiba,Casaco,2018-11-13,9,85,765,Novembro,11,1
+1062,Andrew,Carvalhal,21/10/1992,Curitiba,Sandalia,2018-11-13,101,25,2525,Novembro,11,2
+1061,Emanuella,Fialho,26/09/1990,Brasilia,Vestido,2018-11-13,105,110,11550,Novembro,11,1
+1060,Eduarda,Figueiredo,01/12/1989,Sao Paulo,Sapato,2018-11-13,49,300,14700,Novembro,11,2
+1059,Andrew,Carvalhal,09/11/1990,Sao Paulo,Casaco,2018-11-13,95,200,19000,Novembro,11,8
+1096,Patricia,Camara,06/08/1992,Fortaleza,Camiseta,2018-11-21,43,300,12900,Novembro,11,6
+1092,Iago,Bensdorp,08/09/1989,Fortaleza,Vestido,2018-11-21,123,250,30750,Novembro,11,8
+1098,Jucelia,Bailly,17/05/1991,Rio de Janeiro,Tenis,2018-11-21,134,55,7370,Novembro,11,3
+1095,Andrew,Carvalhal,10/06/1987,Sao Paulo,Sandalia,2018-11-21,57,230,13110,Novembro,11,5
+1093,NatÃ¡lia,Huon,30/07/1992,Fortaleza,Vestido,2018-11-21,91,250,22750,Novembro,11,2
+1103,Andrew,Carvalhal,05/03/1990,Sao Paulo,Jaqueta,2018-11-21,19,25,475,Novembro,11,3
+1102,Andrew,Carvalhal,17/02/1992,Porto Alegre,Camiseta,2018-11-21,15,55,825,Novembro,11,3
+1140,Maryanna,Correa,10/03/1990,Fortaleza,Sapato,2018-11-30,13,75,975,Novembro,11,8
+1101,Breno,Amaral,25/07/1985,Porto Alegre,Sapato,2018-11-21,15,75,1125,Novembro,11,2
+1099,Patricia,Camara,16/12/1989,Salvador,Sapato,2018-11-21,127,30,3810,Novembro,11,7
+1097,Eduarda,Figueiredo,09/03/1986,Curitiba,Sapato,2018-11-21,41,250,10250,Novembro,11,7
+1094,Joyce,Ribas,03/10/1987,Porto Alegre,Vestido,2018-11-21,70,300,21000,Novembro,11,8
+1106,Paloma,Farias,12/01/1986,Fortaleza,Saia,2018-11-22,7,55,385,Novembro,11,3
+1104,Andrew,Carvalhal,05/09/1992,Porto Alegre,Casaco,2018-11-22,46,250,11500,Novembro,11,3
+1105,Patricia,Camara,08/11/1988,Fortaleza,Saia,2018-11-22,115,75,8625,Novembro,11,7
+1132,Andrew,Carvalhal,23/05/1993,Porto Alegre,Sandalia,2018-11-28,72,150,10800,Novembro,11,8
+1010,Joyce,Ribas,10/08/1986,Porto Alegre,Vestido,2018-11-01,134,85,11390,Janeiro,11,5
+1058,Emanuella,Fialho,17/10/1993,Salvador,Short,2018-11-12,77,30,2310,Dezembro,11,7
+1109,Maryanna,Correa,03/07/1992,Curitiba,Pulseira,2018-11-23,36,300,10800,Novembro,11,6
+1110,Iago,Bensdorp,26/07/1986,Brasilia,Casaco,2018-11-23,28,150,4200,Novembro,11,8
+1111,Jucelia,Bailly,01/09/1990,Rio de Janeiro,Vestido,2018-11-23,33,55,1815,Novembro,11,1
+1100,Iago,Bensdorp,16/07/1988,Curitiba,Camiseta,2018-11-21,53,30,1590,Novembro,11,5
+1139,Elizeu,Barros,02/06/1992,Curitiba,Sapato,2018-11-30,112,25,2800,Novembro,11,3
+1138,Patricia,Camara,14/05/1985,Salvador,Vestido,2018-11-30,104,30,3120,Novembro,11,4
+1090,Izabel,Milagre,07/02/1986,Brasilia,Vestido,2018-11-20,81,250,20250,Novembro,11,5
+1078,Joyce,Ribas,03/04/1989,Porto Alegre,Camiseta,2018-11-16,123,30,3690,Novembro,11,1
+1074,Eduarda,Figueiredo,21/02/1988,Rio de Janeiro,Sapato,2018-11-16,104,150,15600,Novembro,11,2
+1073,Elizeu,Barros,20/05/1987,Fortaleza,Camiseta,2018-11-16,136,150,20400,Novembro,11,6
+1076,Emanuella,Fialho,02/07/1985,Sao Paulo,Vestido,2018-11-16,16,300,4800,Novembro,11,7
+1077,Breno,Amaral,13/08/1989,Brasilia,Short,2018-11-16,86,55,4730,Novembro,11,3
+1075,Elizeu,Barros,25/06/1992,Rio de Janeiro,Vestido,2018-11-16,149,75,11175,Novembro,11,7
+1069,Andrew,Carvalhal,21/07/1988,Salvador,Vestido,2018-11-15,97,300,29100,Novembro,11,5
+1071,Iago,Bensdorp,22/05/1992,Brasilia,Casaco,2018-11-15,81,75,6075,Novembro,11,3
+1072,Izabel,Milagre,07/08/1989,Porto Alegre,Casaco,2018-11-15,22,85,1870,Novembro,11,4
+1070,Eduarda,Figueiredo,17/10/1985,Salvador,Sandalia,2018-11-15,144,150,21600,Novembro,11,5
+1083,Iago,Bensdorp,16/08/1986,Curitiba,Pulseira,2018-11-18,55,25,1375,Novembro,11,4
+1084,Emanuella,Fialho,08/09/1992,Brasilia,Casaco,2018-11-18,14,25,350,Novembro,11,6
+1079,Breno,Amaral,17/09/1992,Curitiba,Camiseta,2018-11-18,137,250,34250,Novembro,11,3
+1081,Joyce,Ribas,20/12/1985,Salvador,Sapato,2018-11-18,99,55,5445,Novembro,11,2
+1082,Elizeu,Barros,17/09/1993,Porto Alegre,Vestido,2018-11-18,132,25,3300,Novembro,11,3
+1080,Eduarda,Figueiredo,13/03/1987,Salvador,Casaco,2018-11-18,140,190,26600,Novembro,11,3
+1068,Eduarda,Figueiredo,08/08/1988,Fortaleza,Camiseta,2018-11-14,18,110,1980,Novembro,11,5
+1067,Joyce,Ribas,25/05/1988,Salvador,Casaco,2018-11-14,27,75,2025,Novembro,11,2
+1066,Breno,Amaral,06/11/1991,Porto Alegre,Saia,2018-11-14,35,250,8750,Novembro,11,3
+1064,Andrew,Carvalhal,30/12/1985,Rio de Janeiro,Saia,2018-11-14,140,150,21000,Novembro,11,3
+1065,Andrew,Carvalhal,08/06/1987,Rio de Janeiro,Sapato,2018-11-14,54,190,10260,Novembro,11,3
+1088,Emanuella,Fialho,27/09/1992,Rio de Janeiro,Casaco,2018-11-19,48,55,2640,Novembro,11,2
+1087,Patricia,Camara,04/04/1986,Curitiba,Vestido,2018-11-19,65,75,4875,Novembro,11,3
+1086,Jucelia,Bailly,09/07/1991,Fortaleza,Tenis,2018-11-19,72,85,6120,Novembro,11,7
+1085,Maryanna,Correa,30/09/1991,Porto Alegre,Saia,2018-11-19,86,190,16340,Novembro,11,3
+1089,Jucelia,Bailly,20/10/1987,Porto Alegre,Sapato,2018-11-20,140,200,28000,Novembro,11,4
+1091,Breno,Amaral,18/12/1992,Salvador,Sapato,2018-11-20,88,25,2200,Novembro,11,5
+1112,Joyce,Ribas,04/09/1992,Rio de Janeiro,Vestido,2018-11-23,52,25,1300,Novembro,11,7
+1107,Joyce,Ribas,01/07/1992,Curitiba,Vestido,2018-11-23,85,300,25500,Novembro,11,4
+1137,Maryanna,Correa,22/03/1989,Fortaleza,Short,2018-11-29,32,75,2400,Novembro,11,3
+1057,Maryanna,Correa,06/11/1991,Sao Paulo,Casaco,2018-11-12,66,230,15180,Dezembro,11,1
+1034,Andrew,Carvalhal,11/03/1987,Salvador,Casaco,2018-11-07,34,55,1870,Julho,11,3
+1033,Jucelia,Bailly,12/12/1991,Brasilia,Pulseira,2018-11-07,139,30,4170,Julho,11,7
+1031,Iago,Bensdorp,25/08/1993,Rio de Janeiro,Sapato,2018-11-07,138,75,10350,Julho,11,3
+1027,Breno,Amaral,09/02/1992,Brasilia,Pulseira,2018-11-06,31,300,9300,Junho,11,3
+1030,Iago,Bensdorp,23/10/1992,Salvador,Vestido,2018-11-06,59,25,1475,Junho,11,1
+1028,Paloma,Farias,23/12/1993,Sao Paulo,Sapato,2018-11-06,88,85,7480,Junho,11,6
+1029,Jucelia,Bailly,05/03/1986,Brasilia,Vestido,2018-11-06,125,30,3750,Junho,11,5
+1026,Iago,Bensdorp,28/06/1985,Sao Paulo,Sapato,2018-11-05,13,25,325,Maio,11,6
+1025,Andrew,Carvalhal,29/07/1991,Sao Paulo,Casaco,2018-11-05,124,85,10540,Maio,11,6
+1018,Juliane,Felipi,10/10/1989,Porto Alegre,Camiseta,2018-11-04,118,230,27140,Abril,11,7
+1020,Izabel,Milagre,19/12/1985,Brasilia,Sapato,2018-11-04,85,110,9350,Abril,11,5
+1019,Jucelia,Bailly,07/03/1989,Porto Alegre,Jaqueta,2018-11-04,50,250,12500,Abril,11,1
+1022,Paloma,Farias,21/12/1986,Porto Alegre,Sapato,2018-11-04,74,30,2220,Abril,11,7
+1021,Breno,Amaral,02/09/1985,Brasilia,Casaco,2018-11-04,93,75,6975,Abril,11,6
+1024,Breno,Amaral,16/10/1993,Sao Paulo,Sapato,2018-11-04,32,25,800,Abril,11,5
+1023,Joyce,Ribas,19/07/1992,Sao Paulo,Sapato,2018-11-04,88,25,2200,Abril,11,3
+1017,Joyce,Ribas,20/08/1985,Porto Alegre,Sapato,2018-11-03,75,190,14250,Marco,11,5
+1124,Breno,Amaral,02/03/1992,Rio de Janeiro,Camiseta,2018-11-25,92,30,2760,Novembro,11,6
+1123,Breno,Amaral,08/09/1992,Rio de Janeiro,Tenis,2018-11-25,117,30,3510,Novembro,11,5
+1122,Jucelia,Bailly,29/12/1993,Salvador,Vestido,2018-11-25,55,75,4125,Novembro,11,7
+1121,Jucelia,Bailly,11/08/1988,Curitiba,Vestido,2018-11-25,67,85,5695,Novembro,11,5
+1117,Tayna,Coimbra,24/01/1991,Sao Paulo,Vestido,2018-11-25,133,300,39900,Novembro,11,6
+1118,Izabel,Milagre,30/04/1986,Fortaleza,Vestido,2018-11-25,88,200,17600,Novembro,11,4
+1108,Jucelia,Bailly,26/02/1989,Fortaleza,Vestido,2018-11-23,145,85,12325,Novembro,11,4
+1120,Andrew,Carvalhal,31/08/1991,Porto Alegre,Chinelo,2018-11-25,37,200,7400,Novembro,11,5
+1011,Andrew,Carvalhal,13/05/1986,Curitiba,Sapato,2018-11-01,71,30,2130,Janeiro,11,2
+1012,Patricia,Camara,03/11/1991,Brasilia,Vestido,2018-11-02,91,85,7735,Fevereiro,11,7
+1013,Emanuella,Fialho,12/07/1988,Rio de Janeiro,Vestido,2018-11-02,68,55,3740,Fevereiro,11,6
+1014,Jucelia,Bailly,16/07/1993,Porto Alegre,Vestido,2018-11-02,137,25,3425,Fevereiro,11,6
+1015,Izabel,Milagre,24/05/1992,Fortaleza,Casaco,2018-11-02,61,30,1830,Fevereiro,11,5
+1016,Maryanna,Correa,04/09/1988,Porto Alegre,Vestido,2018-11-02,20,30,600,Fevereiro,11,3
+1119,NatÃ¡lia,Huon,24/11/1992,Sao Paulo,Sapato,2018-11-25,89,150,13350,Novembro,11,3
+1116,Paloma,Farias,21/12/1990,Porto Alegre,Vestido,2018-11-24,145,30,4350,Novembro,11,8
+1115,Patricia,Camara,18/08/1989,Salvador,Pulseira,2018-11-24,90,75,6750,Novembro,11,3
+1114,Izabel,Milagre,15/08/1989,Curitiba,Short,2018-11-24,109,75,8175,Novembro,11,3
+1056,Joyce,Ribas,08/10/1988,Salvador,Sapato,2018-11-12,75,250,18750,Dezembro,11,2
+1055,NatÃ¡lia,Huon,22/10/1989,Porto Alegre,Vestido,2018-11-11,13,75,975,Novembro,11,7
+1054,Maryanna,Correa,29/10/1985,Fortaleza,Saia,2018-11-11,128,30,3840,Novembro,11,6
+1053,Eduarda,Figueiredo,29/12/1986,Brasilia,Casaco,2018-11-11,106,85,9010,Novembro,11,1
+1052,NatÃ¡lia,Huon,12/09/1993,Rio de Janeiro,Casaco,2018-11-11,59,300,17700,Novembro,11,6
+1050,Andrew,Carvalhal,25/07/1985,Fortaleza,Vestido,2018-11-10,102,75,7650,Outubro,11,3
+1051,Paloma,Farias,23/12/1989,Salvador,Vestido,2018-11-10,2,200,400,Outubro,11,8
+1049,Emanuella,Fialho,17/07/1986,Curitiba,Vestido,2018-11-10,144,85,12240,Outubro,11,2
+1113,Jucelia,Bailly,06/03/1988,Rio de Janeiro,Vestido,2018-11-24,142,150,21300,Novembro,11,4
+1047,Iago,Bensdorp,09/08/1989,Curitiba,Saia,2018-11-10,140,300,42000,Outubro,11,5
+1044,Izabel,Milagre,08/10/1991,Curitiba,Vestido,2018-11-09,100,110,11000,Setembro,11,8
+1043,Joyce,Ribas,17/03/1988,Sao Paulo,Camiseta,2018-11-09,137,110,15070,Setembro,11,6
+1045,Joyce,Ribas,10/03/1990,Porto Alegre,Casaco,2018-11-09,34,200,6800,Setembro,11,5
+1048,Joyce,Ribas,25/05/1986,Brasilia,Jaqueta,2018-11-10,122,110,13420,Outubro,11,6
+1037,Jucelia,Bailly,27/05/1989,Fortaleza,Jaqueta,2018-11-08,118,250,29500,Agosto,11,7
+1039,Elizeu,Barros,28/10/1991,Salvador,Vestido,2018-11-08,70,230,16100,Agosto,11,1
+1035,NatÃ¡lia,Huon,09/08/1988,Fortaleza,Camiseta,2018-11-07,40,25,1000,Julho,11,1
+1038,Tayna,Coimbra,24/02/1990,Sao Paulo,Sapato,2018-11-08,144,190,27360,Agosto,11,6
+1041,Tayna,Coimbra,05/05/1988,Fortaleza,Camiseta,2018-11-08,109,25,2725,Agosto,11,3
+1036,Iago,Bensdorp,21/07/1991,Salvador,Casaco,2018-11-07,12,55,660,Julho,11,5
+1032,Breno,Amaral,29/10/1989,Salvador,Saia,2018-11-07,54,190,10260,Julho,11,8
+1042,Andrew,Carvalhal,04/04/1993,Rio de Janeiro,Camiseta,2018-11-08,42,55,2310,Agosto,11,1
+1040,Andrew,Carvalhal,18/12/1990,Curitiba,Vestido,2018-11-08,60,75,4500,Agosto,11,2
+1046,Breno,Amaral,03/11/1991,Sao Paulo,Tenis,2018-11-09,46,55,2530,Setembro,11,5
+1284,Maryanna,Correa,29/11/1992,Rio de Janeiro,Casaco,2018-12-30,28,30,840,Dezembro,12,2
+1281,Izabel,Milagre,21/01/1989,Curitiba,Casaco,2018-12-30,88,230,20240,Dezembro,12,1
+1282,Joyce,Ribas,31/03/1985,Brasilia,Sapato,2018-12-30,121,85,10285,Dezembro,12,2
+1279,Paloma,Farias,29/01/1990,Salvador,Vestido,2018-12-29,32,85,2720,Dezembro,12,2
+1277,Izabel,Milagre,09/01/1985,Curitiba,Camiseta,2018-12-29,66,55,3630,Dezembro,12,4
+1276,Andrew,Carvalhal,28/02/1986,Curitiba,Vestido,2018-12-29,45,300,13500,Dezembro,12,5
+1271,Paloma,Farias,26/09/1986,Fortaleza,Sapato,2018-12-28,127,300,38100,Dezembro,12,2
+1272,Patricia,Camara,30/12/1993,Fortaleza,Sapato,2018-12-28,31,110,3410,Dezembro,12,8
+1273,Maryanna,Correa,28/09/1987,Rio de Janeiro,Sandalia,2018-12-28,105,25,2625,Dezembro,12,4
+1274,Breno,Amaral,25/09/1992,Curitiba,Vestido,2018-12-28,13,150,1950,Dezembro,12,4
+1275,Izabel,Milagre,03/08/1988,Sao Paulo,Sandalia,2018-12-28,7,55,385,Dezembro,12,1
+1283,Jucelia,Bailly,30/06/1990,Rio de Janeiro,Sapato,2018-12-30,61,25,1525,Dezembro,12,1
+1280,Iago,Bensdorp,13/01/1986,Sao Paulo,Bermuda,2018-12-29,60,25,1500,Dezembro,12,6
+1278,Jucelia,Bailly,30/11/1988,Rio de Janeiro,Vestido,2018-12-29,110,30,3300,Dezembro,12,1
+1217,NatÃ¡lia,Huon,06/05/1985,Brasilia,Sapato,2018-12-16,30,30,900,Dezembro,12,1
+1270,Jucelia,Bailly,03/02/1986,Salvador,Vestido,2018-12-27,76,25,1900,Dezembro,12,6
+1232,Joyce,Ribas,28/06/1988,Curitiba,Tenis,2018-12-20,121,30,3630,Dezembro,12,4
+1229,Andrew,Carvalhal,16/11/1985,Porto Alegre,Chinelo,2018-12-20,94,110,10340,Dezembro,12,8
+1230,Izabel,Milagre,18/08/1988,Fortaleza,Tenis,2018-12-20,143,30,4290,Dezembro,12,8
+1231,Joyce,Ribas,02/12/1993,Rio de Janeiro,Pulseira,2018-12-20,68,55,3740,Dezembro,12,4
+1191,Emanuella,Fialho,27/06/1992,Fortaleza,Camiseta,2018-12-13,66,250,16500,Dezembro,12,6
+1193,Emanuella,Fialho,17/04/1990,Fortaleza,Short,2018-12-13,115,55,6325,Dezembro,12,2
+1192,Joyce,Ribas,13/08/1985,Brasilia,Sapato,2018-12-13,125,55,6875,Dezembro,12,4
+1190,Elizeu,Barros,16/03/1989,Curitiba,Bermuda,2018-12-12,17,230,3910,Dezembro,12,5
+1188,NatÃ¡lia,Huon,17/08/1992,Sao Paulo,Vestido,2018-12-12,92,230,21160,Dezembro,12,6
+1189,Joyce,Ribas,05/05/1992,Brasilia,Sandalia,2018-12-12,97,75,7275,Dezembro,12,7
+1187,Juliane,Felipi,16/08/1991,Rio de Janeiro,Saia,2018-12-11,6,75,450,Novembro,12,7
+1186,Joyce,Ribas,19/03/1991,Curitiba,Casaco,2018-12-11,71,25,1775,Novembro,12,6
+1185,Elizeu,Barros,22/04/1987,Brasilia,Camiseta,2018-12-11,94,85,7990,Novembro,12,1
+1228,Paloma,Farias,17/07/1990,Rio de Janeiro,Saia,2018-12-19,16,190,3040,Dezembro,12,6
+1184,Jucelia,Bailly,27/07/1988,Brasilia,Camiseta,2018-12-11,97,230,22310,Novembro,12,2
+1183,Emanuella,Fialho,31/03/1988,Brasilia,Vestido,2018-12-10,91,25,2275,Outubro,12,2
+1179,Emanuella,Fialho,10/08/1992,Brasilia,Sapato,2018-12-10,89,190,16910,Outubro,12,6
+1180,Breno,Amaral,16/05/1990,Rio de Janeiro,Camiseta,2018-12-10,122,110,13420,Outubro,12,6
+1237,Andrew,Carvalhal,23/06/1990,Salvador,Sandalia,2018-12-21,43,55,2365,Dezembro,12,3
+1236,Elizeu,Barros,13/12/1992,Rio de Janeiro,Saia,2018-12-21,20,300,6000,Dezembro,12,7
+1235,Izabel,Milagre,22/10/1987,Fortaleza,Pulseira,2018-12-21,62,250,15500,Dezembro,12,8
+1238,Elizeu,Barros,10/07/1988,Brasilia,Vestido,2018-12-21,78,30,2340,Dezembro,12,6
+1234,Iago,Bensdorp,07/03/1993,Porto Alegre,Vestido,2018-12-21,103,250,25750,Dezembro,12,3
+1233,Breno,Amaral,26/05/1987,Porto Alegre,Sapato,2018-12-21,138,200,27600,Dezembro,12,7
+1181,Emanuella,Fialho,24/02/1988,Brasilia,Saia,2018-12-10,123,30,3690,Outubro,12,8
+1182,Juliane,Felipi,14/07/1986,Curitiba,Sapato,2018-12-10,86,30,2580,Outubro,12,1
+1177,Juliane,Felipi,14/07/1993,Brasilia,Short,2018-12-09,4,25,100,Setembro,12,5
+1176,Jucelia,Bailly,13/12/1988,Sao Paulo,Saia,2018-12-09,5,25,125,Setembro,12,4
+1178,Andrew,Carvalhal,28/03/1986,Brasilia,Casaco,2018-12-10,121,230,27830,Outubro,12,5
+1227,Elizeu,Barros,03/01/1991,Curitiba,Vestido,2018-12-19,81,110,8910,Dezembro,12,1
+1225,Paloma,Farias,10/10/1987,Brasilia,Tenis,2018-12-19,129,190,24510,Dezembro,12,7
+1226,Patricia,Camara,01/06/1990,Brasilia,Casaco,2018-12-19,144,110,15840,Dezembro,12,3
+1216,Elizeu,Barros,03/02/1989,Brasilia,Tenis,2018-12-16,21,230,4830,Dezembro,12,8
+1215,Maryanna,Correa,17/10/1992,Fortaleza,Vestido,2018-12-16,89,110,9790,Dezembro,12,1
+1213,NatÃ¡lia,Huon,31/08/1988,Brasilia,Jaqueta,2018-12-16,107,300,32100,Dezembro,12,6
+1203,Elizeu,Barros,14/06/1985,Rio de Janeiro,Casaco,2018-12-15,137,200,27400,Dezembro,12,2
+1207,Patricia,Camara,20/04/1985,Sao Paulo,Vestido,2018-12-15,148,25,3700,Dezembro,12,2
+1204,Andrew,Carvalhal,16/06/1987,Rio de Janeiro,Vestido,2018-12-15,116,110,12760,Dezembro,12,1
+1208,Breno,Amaral,29/01/1988,Rio de Janeiro,Saia,2018-12-15,37,75,2775,Dezembro,12,2
+1212,Eduarda,Figueiredo,27/12/1992,Brasilia,Casaco,2018-12-15,15,25,375,Dezembro,12,5
+1218,Elizeu,Barros,18/08/1990,Fortaleza,Vestido,2018-12-17,118,300,35400,Dezembro,12,8
+1219,Andrew,Carvalhal,13/12/1990,Porto Alegre,Tenis,2018-12-17,25,300,7500,Dezembro,12,7
+1220,Joyce,Ribas,11/04/1991,Curitiba,Sapato,2018-12-17,39,190,7410,Dezembro,12,1
+1221,Breno,Amaral,03/08/1993,Rio de Janeiro,Sapato,2018-12-17,15,110,1650,Dezembro,12,8
+1206,Elizeu,Barros,29/10/1987,Brasilia,Sapato,2018-12-15,56,75,4200,Dezembro,12,8
+1205,Jucelia,Bailly,13/03/1992,Curitiba,Tenis,2018-12-15,26,230,5980,Dezembro,12,4
+1210,Jucelia,Bailly,17/06/1985,Rio de Janeiro,Sapato,2018-12-15,78,30,2340,Dezembro,12,7
+1209,Patricia,Camara,11/10/1985,Porto Alegre,Vestido,2018-12-15,92,30,2760,Dezembro,12,7
+1211,Emanuella,Fialho,03/03/1987,Salvador,Vestido,2018-12-15,10,85,850,Dezembro,12,1
+1202,Juliane,Felipi,14/09/1987,Brasilia,Tenis,2018-12-15,96,300,28800,Dezembro,12,5
+1224,Izabel,Milagre,13/06/1992,Porto Alegre,Casaco,2018-12-18,141,30,4230,Dezembro,12,6
+1223,Joyce,Ribas,24/01/1992,Brasilia,Casaco,2018-12-18,39,190,7410,Dezembro,12,5
+1222,Jucelia,Bailly,31/12/1987,Sao Paulo,Sapato,2018-12-18,138,300,41400,Dezembro,12,1
+1196,NatÃ¡lia,Huon,05/04/1992,Sao Paulo,Jaqueta,2018-12-14,112,150,16800,Dezembro,12,8
+1197,NatÃ¡lia,Huon,21/07/1986,Porto Alegre,Casaco,2018-12-14,146,110,16060,Dezembro,12,7
+1198,Jucelia,Bailly,09/09/1987,Porto Alegre,Sapato,2018-12-14,31,300,9300,Dezembro,12,1
+1194,Breno,Amaral,24/12/1992,Sao Paulo,Vestido,2018-12-14,134,230,30820,Dezembro,12,1
+1199,Patricia,Camara,30/09/1992,Porto Alegre,Saia,2018-12-14,104,85,8840,Dezembro,12,3
+1195,Andrew,Carvalhal,12/11/1991,Sao Paulo,Saia,2018-12-14,146,200,29200,Dezembro,12,8
+1201,Jucelia,Bailly,01/07/1988,Fortaleza,Vestido,2018-12-14,56,30,1680,Dezembro,12,3
+1200,Elizeu,Barros,03/05/1992,Fortaleza,Vestido,2018-12-14,119,25,2975,Dezembro,12,8
+1175,Paloma,Farias,24/08/1990,Rio de Janeiro,Saia,2018-12-09,40,30,1200,Setembro,12,7
+1174,Jucelia,Bailly,09/02/1993,Curitiba,Casaco,2018-12-08,125,55,6875,Agosto,12,8
+1173,Breno,Amaral,04/08/1991,Sao Paulo,Casaco,2018-12-08,34,230,7820,Agosto,12,5
+1172,Jucelia,Bailly,09/05/1987,Porto Alegre,Short,2018-12-08,104,250,26000,Agosto,12,3
+1146,Izabel,Milagre,05/11/1986,Sao Paulo,Camiseta,2018-12-03,68,230,15640,Marco,12,4
+1145,Elizeu,Barros,29/08/1986,Fortaleza,Camiseta,2018-12-03,106,230,24380,Marco,12,7
+1151,Breno,Amaral,03/11/1988,Sao Paulo,Sapato,2018-12-03,44,85,3740,Marco,12,7
+1144,Iago,Bensdorp,25/01/1988,Curitiba,Sapato,2018-12-02,5,230,1150,Fevereiro,12,1
+1143,Jucelia,Bailly,06/05/1988,Fortaleza,Sapato,2018-12-02,87,55,4785,Fevereiro,12,7
+1141,Breno,Amaral,13/10/1987,Sao Paulo,Jaqueta,2018-12-01,137,55,7535,Janeiro,12,4
+1142,Juliane,Felipi,13/07/1987,Curitiba,Sandalia,2018-12-01,84,25,2100,Janeiro,12,3
+1248,Izabel,Milagre,30/11/1990,Rio de Janeiro,Camiseta,2018-12-23,72,250,18000,Dezembro,12,4
+1249,Izabel,Milagre,10/01/1990,Sao Paulo,Pulseira,2018-12-23,62,110,6820,Dezembro,12,8
+1214,Eduarda,Figueiredo,20/12/1993,Fortaleza,Casaco,2018-12-16,67,230,15410,Dezembro,12,5
+1250,Juliane,Felipi,17/08/1986,Brasilia,Bermuda,2018-12-24,150,190,28500,Dezembro,12,4
+1251,Tayna,Coimbra,13/11/1993,Fortaleza,Casaco,2018-12-24,86,300,25800,Dezembro,12,1
+1252,Eduarda,Figueiredo,29/04/1988,Curitiba,Casaco,2018-12-24,85,110,9350,Dezembro,12,8
+1255,Paloma,Farias,01/01/1989,Curitiba,Sapato,2018-12-24,29,55,1595,Dezembro,12,3
+1254,Iago,Bensdorp,16/03/1988,Curitiba,Camiseta,2018-12-24,75,25,1875,Dezembro,12,2
+1253,Jucelia,Bailly,23/01/1991,Fortaleza,Vestido,2018-12-24,122,55,6710,Dezembro,12,6
+1256,Patricia,Camara,17/09/1990,Curitiba,Short,2018-12-25,27,300,8100,Dezembro,12,6
+1257,Emanuella,Fialho,21/05/1986,Salvador,Pulseira,2018-12-25,25,190,4750,Dezembro,12,8
+1258,Jucelia,Bailly,08/09/1987,Fortaleza,Sapato,2018-12-25,2,300,600,Dezembro,12,3
+1263,Jucelia,Bailly,16/05/1986,Brasilia,Short,2018-12-26,11,230,2530,Dezembro,12,2
+1264,Emanuella,Fialho,26/03/1985,Sao Paulo,Bermuda,2018-12-26,14,150,2100,Dezembro,12,5
+1261,Jucelia,Bailly,25/10/1991,Sao Paulo,Sandalia,2018-12-26,111,85,9435,Dezembro,12,1
+1262,Jucelia,Bailly,17/07/1988,Salvador,Casaco,2018-12-26,45,200,9000,Dezembro,12,6
+1260,Eduarda,Figueiredo,13/01/1985,Brasilia,Casaco,2018-12-26,59,230,13570,Dezembro,12,6
+1259,Juliane,Felipi,23/08/1985,Fortaleza,Vestido,2018-12-26,137,190,26030,Dezembro,12,5
+1268,Elizeu,Barros,01/05/1990,Sao Paulo,Tenis,2018-12-27,81,110,8910,Dezembro,12,3
+1265,Jucelia,Bailly,21/07/1990,Porto Alegre,Casaco,2018-12-27,132,150,19800,Dezembro,12,1
+1269,Iago,Bensdorp,21/12/1989,Sao Paulo,Tenis,2018-12-27,80,30,2400,Dezembro,12,2
+1267,Iago,Bensdorp,07/02/1991,Fortaleza,Casaco,2018-12-27,55,250,13750,Dezembro,12,7
+1147,Andrew,Carvalhal,21/02/1993,Rio de Janeiro,Saia,2018-12-03,63,230,14490,Marco,12,6
+1266,NatÃ¡lia,Huon,06/10/1989,Rio de Janeiro,Sandalia,2018-12-27,124,150,18600,Dezembro,12,3
+1148,Jucelia,Bailly,12/08/1989,Brasilia,Saia,2018-12-03,92,150,13800,Marco,12,1
+1150,Andrew,Carvalhal,21/06/1992,Porto Alegre,Saia,2018-12-03,127,30,3810,Marco,12,1
+1171,Iago,Bensdorp,29/04/1989,Salvador,Bermuda,2018-12-07,13,110,1430,Julho,12,3
+1167,Eduarda,Figueiredo,14/10/1988,Curitiba,Chinelo,2018-12-07,61,190,11590,Julho,12,7
+1170,Breno,Amaral,30/11/1989,Brasilia,Saia,2018-12-07,15,110,1650,Julho,12,8
+1168,Patricia,Camara,14/03/1990,Sao Paulo,Casaco,2018-12-07,90,75,6750,Julho,12,8
+1169,Maryanna,Correa,08/03/1988,Rio de Janeiro,Vestido,2018-12-07,44,150,6600,Julho,12,3
+1161,Iago,Bensdorp,30/06/1993,Porto Alegre,Saia,2018-12-06,45,85,3825,Junho,12,5
+1158,Emanuella,Fialho,31/10/1986,Rio de Janeiro,Vestido,2018-12-06,111,150,16650,Junho,12,3
+1159,Andrew,Carvalhal,15/12/1988,Fortaleza,Casaco,2018-12-06,43,300,12900,Junho,12,6
+1246,Patricia,Camara,21/11/1990,Curitiba,Bermuda,2018-12-22,43,25,1075,Dezembro,12,3
+1247,Maryanna,Correa,30/09/1988,Salvador,Casaco,2018-12-22,12,25,300,Dezembro,12,4
+1239,Izabel,Milagre,31/10/1988,Brasilia,Camiseta,2018-12-22,109,150,16350,Dezembro,12,8
+1240,Eduarda,Figueiredo,16/12/1986,Salvador,Vestido,2018-12-22,39,200,7800,Dezembro,12,3
+1244,Maryanna,Correa,26/01/1991,Curitiba,Jaqueta,2018-12-22,71,30,2130,Dezembro,12,4
+1243,Maryanna,Correa,13/06/1990,Salvador,Vestido,2018-12-22,45,55,2475,Dezembro,12,2
+1242,Maryanna,Correa,15/06/1988,Sao Paulo,Sapato,2018-12-22,33,110,3630,Dezembro,12,5
+1241,Emanuella,Fialho,23/10/1989,Brasilia,Vestido,2018-12-22,63,75,4725,Dezembro,12,6
+1245,Iago,Bensdorp,10/06/1993,Brasilia,Vestido,2018-12-22,6,190,1140,Dezembro,12,3
+1160,Maryanna,Correa,04/05/1991,Brasilia,Short,2018-12-06,98,85,8330,Junho,12,6
+1166,Emanuella,Fialho,23/04/1991,Sao Paulo,Sapato,2018-12-06,29,30,870,Junho,12,2
+1162,Joyce,Ribas,12/09/1988,Sao Paulo,Vestido,2018-12-06,58,55,3190,Junho,12,5
+1165,Emanuella,Fialho,12/11/1989,Curitiba,Bermuda,2018-12-06,5,200,1000,Junho,12,5
+1164,Izabel,Milagre,26/02/1987,Rio de Janeiro,Casaco,2018-12-06,76,30,2280,Junho,12,1
+1163,Izabel,Milagre,04/12/1993,Brasilia,Short,2018-12-06,102,25,2550,Junho,12,8
+1155,Iago,Bensdorp,24/07/1989,Porto Alegre,Sapato,2018-12-05,29,250,7250,Maio,12,8
+1156,Izabel,Milagre,03/05/1991,Rio de Janeiro,Vestido,2018-12-05,51,30,1530,Maio,12,3
+1157,Elizeu,Barros,14/10/1989,Salvador,Casaco,2018-12-05,4,30,120,Maio,12,1
+1154,Eduarda,Figueiredo,05/10/1986,Fortaleza,Vestido,2018-12-04,13,30,390,Abril,12,6
+1153,Tayna,Coimbra,24/01/1990,Salvador,Casaco,2018-12-04,10,200,2000,Abril,12,1
+1152,Breno,Amaral,16/11/1987,Sao Paulo,Chinelo,2018-12-04,87,150,13050,Abril,12,2
+1149,Andrew,Carvalhal,22/04/1990,Fortaleza,Camiseta,2018-12-03,119,75,8925,Marco,12,2
+1285,Eduarda,Figueiredo,06/05/1992,Salvador,Sapato,2018-12-31,31,30,930,Dezembro,12,4
