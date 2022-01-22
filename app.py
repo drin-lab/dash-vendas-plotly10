@@ -22,7 +22,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dbc.Card([
-                dbc.CardBody(html.H2("Report Vendas 2021")) 
+                dbc.CardBody(html.H6("[Python] Dash Vendas")) 
             ], color = "success", className='mb-2', style={'height':'18vh' }),            
         ], width=2),
         dbc.Col([
@@ -80,7 +80,7 @@ app.layout = dbc.Container([
             dbc.Card([
                 dbc.CardHeader('Faturamento'),
                 dbc.CardBody([
-                    html.H3(id='content-connections', children="000")
+                    html.H5(id='content-connections', children="000")
                 ], style={'textAlign':'center'})
             ]),
         ], width=2),
@@ -88,7 +88,7 @@ app.layout = dbc.Container([
             dbc.Card([
                 dbc.CardHeader('Unidades Vendidas'),
                 dbc.CardBody([
-                    html.H3(id='content-companies', children="000")
+                    html.H5(id='content-companies', children="000")
                 ], style={'textAlign':'center'})
             ]),
         ], width=2),
@@ -96,7 +96,7 @@ app.layout = dbc.Container([
             dbc.Card([
                 dbc.CardHeader('Preço Médio'),
                 dbc.CardBody([                    
-                    html.H3(id='content-msg-in', children="000")
+                    html.H5(id='content-msg-in', children="000")
                 ], style={'textAlign':'center'})
             ]),
         ], width=2),
@@ -104,7 +104,7 @@ app.layout = dbc.Container([
             dbc.Card([
                 dbc.CardHeader('Itens únicos'),
                 dbc.CardBody([
-                    html.H3(id='content-msg-out', children="000")
+                    html.H5(id='content-msg-out', children="000")
                 ], style={'textAlign': 'center'})
             ]),
         ], width=2),
@@ -112,7 +112,7 @@ app.layout = dbc.Container([
             dbc.Card([
                 dbc.CardHeader('Qtd devoluções'),
                 dbc.CardBody([
-                    html.H3(id='content-reactions', children="000")
+                    html.H5(id='content-reactions', children="000")
                 ], style={'textAlign': 'center'})
             ]),
         ], width=2),
