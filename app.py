@@ -16,6 +16,7 @@ vendas = pd.read_csv('vendas.csv')
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE])
+server = app.server
 
 app.layout = dbc.Container([
     dbc.Row([
