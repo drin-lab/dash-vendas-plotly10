@@ -359,4 +359,4 @@ def update_plot(input_produto, input_country):
 
 
 if __name__=='__main__':
-    app.run_server(debug=True, process.env.PORT || 3000)
+    app.run_server(debug=False, port=3000)
