@@ -86,7 +86,7 @@ app.layout = dbc.Container([
         ], width=2),
         dbc.Col([
             dbc.Card([
-                dbc.CardHeader('Unidades Vendidas'),
+                dbc.CardHeader('Qtd vendas'),
                 dbc.CardBody([
                     html.H5(id='content-companies', children="000")
                 ], style={'textAlign':'center'})
