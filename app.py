@@ -22,7 +22,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dbc.Card([
-                dbc.CardBody(html.H6("[Python] Dash Vendas")) 
+                dbc.CardBody(html.H5("[Python] Dash Vendas",className="font-weight-bold")) 
             ], color = "success", className='mb-2', style={'height':'18vh' }),            
         ], width=2),
         dbc.Col([
